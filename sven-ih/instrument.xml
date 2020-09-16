@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<instrument name="Sven-ih">
+	<sample filename="Sven-i-59.flac" midi_note="59">
+		<clip start="54.200" end="3693.356" />
+		<loop type="ping-pong" start="795.793" end="1891.228" />
+	</sample>
+	<sample filename="Sven-i-58.flac" midi_note="58">
+		<clip start="143.351" end="4561.066" />
+		<loop type="ping-pong" start="1389.723" end="1872.057" />
+	</sample>
+	<sample filename="Sven-i-57.flac" midi_note="57">
+		<clip start="29.631" end="3604.354" />
+		<loop type="ping-pong" start="991.019" end="1398.980" />
+	</sample>
+	<sample filename="Sven-i-55.flac" midi_note="55">
+		<clip start="329.070" end="3871.338" />
+		<loop type="ping-pong" start="674.286" end="796.701" />
+	</sample>
+	<sample filename="Sven-i-54.flac" midi_note="54">
+		<clip start="133.059" end="3181.610" />
+		<loop type="ping-pong" start="845.871" end="977.299" />
+	</sample>
+	<sample filename="Sven-i-53.flac" midi_note="53">
+		<clip start="290.786" end="3982.608" />
+		<loop type="ping-pong" start="884.439" end="1555.665" />
+	</sample>
+	<sample filename="Sven-i-52.flac" midi_note="52">
+		<clip start="243.940" end="3760.091" />
+		<loop type="ping-pong" start="1083.542" end="1468.747" />
+	</sample>
+	<sample filename="Sven-i-51.flac" midi_note="51">
+		<clip start="163.605" end="4271.837" />
+		<loop type="ping-pong" start="1022.591" end="1594.120" />
+	</sample>
+	<sample filename="Sven-i-50.flac" midi_note="50">
+		<clip start="162.473" end="4093.832" />
+		<loop type="ping-pong" start="1298.286" end="1671.699" />
+	</sample>
+	<sample filename="Sven-i-49.flac" midi_note="49">
+		<clip start="222.316" end="3804.580" />
+		<loop type="ping-pong" start="1002.066" end="1140.368" />
+	</sample>
+	<sample filename="Sven-i-48.flac" midi_note="48">
+		<clip start="277.327" end="4138.345" />
+		<loop type="ping-pong" start="1086.555" end="1332.722" />
+	</sample>
+	<sample filename="Sven-i-47-2.flac" midi_note="47">
+		<clip start="141.629" end="3804.603" />
+		<loop type="ping-pong" start="895.201" end="1454.701" />
+	</sample>
+	<sample filename="Sven-i-46.flac" midi_note="46">
+		<clip start="105.942" end="4093.855" />
+		<loop type="ping-pong" start="1139.136" end="1643.089" />
+	</sample>
+	<sample filename="Sven-i-45.flac" midi_note="45">
+		<clip start="226.686" end="3648.844" />
+		<loop type="ping-pong" start="1202.213" end="1648.370" />
+	</sample>
+	<sample filename="Sven-i-44.flac" midi_note="44">
+		<clip start="207.278" end="4093.832" />
+		<loop type="ping-pong" start="986.930" end="1582.200" />
+	</sample>
+	<sample filename="Sven-i-43.flac" midi_note="43">
+		<clip start="225.768" end="3626.599" />
+		<loop type="ping-pong" start="1030.093" end="1521.470" />
+	</sample>
+	<sample filename="Sven-i-42.flac" midi_note="42">
+		<clip start="145.586" end="4427.574" />
+		<loop type="ping-pong" start="986.913" end="1367.339" />
+	</sample>
+	<sample filename="Sven-i-41.flac" midi_note="41">
+		<clip start="149.040" end="3871.338" />
+		<loop type="ping-pong" start="629.444" end="1889.612" />
+	</sample>
+	<auto_tune method="smooth" partials="3" time="100.0" amount="50.0" />
+	<auto_volume method="from-loop" />
+</instrument>

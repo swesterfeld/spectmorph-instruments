@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<instrument name="Sven-ah">
+	<sample filename="Sven-a-58.flac" midi_note="58">
+		<clip start="797.300" end="4523.878" />
+		<loop type="ping-pong" start="1218.487" end="1946.328" />
+	</sample>
+	<sample filename="Sven-a-55.flac" midi_note="55">
+		<clip start="907.957" end="4011.156" />
+		<loop type="ping-pong" start="1398.922" end="1755.682" />
+	</sample>
+	<sample filename="Sven-a-54.flac" midi_note="54">
+		<clip start="1011.470" end="3980.998" />
+		<loop type="ping-pong" start="1334.674" end="1505.701" />
+	</sample>
+	<sample filename="Sven-a-53.flac" midi_note="53">
+		<clip start="1126.378" end="4131.791" />
+		<loop type="ping-pong" start="1335.592" end="2064.464" />
+	</sample>
+	<sample filename="Sven-a-50.flac" midi_note="50">
+		<clip start="785.094" end="3800.045" />
+		<loop type="ping-pong" start="1242.612" end="1487.493" />
+	</sample>
+	<sample filename="Sven-a-49.flac" midi_note="49">
+		<clip start="862.014" end="3980.998" />
+		<loop type="ping-pong" start="1410.320" end="1897.091" />
+	</sample>
+	<sample filename="Sven-a-47.flac" midi_note="47">
+		<clip start="2065.829" end="5096.871" />
+		<loop type="ping-pong" start="2330.215" end="3183.545" />
+	</sample>
+	<sample filename="Sven-a-46.flac" midi_note="46">
+		<clip start="351.483" end="4212.472" />
+		<loop type="ping-pong" start="1603.690" end="1948.233" />
+	</sample>
+	<sample filename="Sven-a-45.flac" midi_note="45">
+		<clip start="936.823" end="4222.290" />
+		<loop type="ping-pong" start="1355.600" end="1697.005" />
+	</sample>
+	<sample filename="Sven-a-44.flac" midi_note="44">
+		<clip start="1017.713" end="4131.814" />
+		<loop type="ping-pong" start="1433.027" end="1699.287" />
+	</sample>
+	<sample filename="Sven-a-43.flac" midi_note="43">
+		<clip start="799.512" end="3769.887" />
+		<loop type="ping-pong" start="1232.750" end="1843.208" />
+	</sample>
+	<sample filename="Sven-a-42.flac" midi_note="42">
+		<clip start="772.437" end="6135.964" />
+		<loop type="ping-pong" start="1124.386" end="1448.826" />
+	</sample>
+	<sample filename="Sven-a-41.flac" midi_note="41">
+		<clip start="780.312" end="4976.236" />
+		<loop type="ping-pong" start="1174.990" end="1898.567" />
+	</sample>
+	<auto_tune method="smooth" partials="3" time="100.0" amount="50.0" />
+	<auto_volume method="from-loop" />
+</instrument>
