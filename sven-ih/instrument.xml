@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<instrument name="Sven-ih">
+<instrument name="Sven Ih" short_name="sih">
 	<sample filename="Sven-i-59.flac" midi_note="59">
 		<clip start="54.200" end="3693.356" />
 		<loop type="ping-pong" start="795.793" end="1891.228" />
