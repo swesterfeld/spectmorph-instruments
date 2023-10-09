@@ -1,0 +1,144 @@
+<instrument name="Trumpet" short_name="trp">
+  <sample filename="trumpet-ff-e3.flac" midi_note="52">
+    <clip end="4157.075" start="0.000"/>
+    <loop end="2065.011" start="2065.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-f3.flac" midi_note="53">
+    <clip end="3911.474" start="0.000"/>
+    <loop end="1935.011" start="1935.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-fis3.flac" midi_note="54">
+    <clip end="4357.755" start="0.000"/>
+    <loop end="2165.011" start="2165.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-g3.flac" midi_note="55">
+    <clip end="4336.621" start="0.000"/>
+    <loop end="2155.011" start="2155.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-gis3.flac" midi_note="56">
+    <clip end="4221.043" start="0.000"/>
+    <loop end="2095.011" start="2095.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-a3.flac" midi_note="57">
+    <clip end="4158.526" start="0.000"/>
+    <loop end="2065.011" start="2065.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-ais3.flac" midi_note="58">
+    <clip end="4542.245" start="0.000"/>
+    <loop end="2255.011" start="2255.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-h3.flac" midi_note="59">
+    <clip end="4222.948" start="0.000"/>
+    <loop end="2095.011" start="2095.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-c4.flac" midi_note="60">
+    <clip end="4329.909" start="0.000"/>
+    <loop end="2145.011" start="2145.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-cis4.flac" midi_note="61">
+    <clip end="4165.601" start="0.000"/>
+    <loop end="2065.011" start="2065.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-d4.flac" midi_note="62">
+    <clip end="4093.810" start="0.000"/>
+    <loop end="2025.011" start="2025.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-dis4.flac" midi_note="63">
+    <clip end="4036.190" start="0.000"/>
+    <loop end="2005.011" start="2005.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-e4.flac" midi_note="64">
+    <clip end="4276.599" start="0.000"/>
+    <loop end="2125.011" start="2125.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-f4.flac" midi_note="65">
+    <clip end="4229.728" start="0.000"/>
+    <loop end="2095.011" start="2095.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-fis4.flac" midi_note="66">
+    <clip end="4274.218" start="0.000"/>
+    <loop end="2115.011" start="2115.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-g4.flac" midi_note="67">
+    <clip end="4264.807" start="0.000"/>
+    <loop end="2115.011" start="2115.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-gis4.flac" midi_note="68">
+    <clip end="4058.594" start="0.000"/>
+    <loop end="2015.011" start="2015.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-a4.flac" midi_note="69">
+    <clip end="4292.721" start="0.000"/>
+    <loop end="2125.011" start="2125.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-ais4.flac" midi_note="70">
+    <clip end="4395.873" start="0.000"/>
+    <loop end="2185.011" start="2185.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-h4.flac" midi_note="71">
+    <clip end="4195.986" start="0.000"/>
+    <loop end="2085.011" start="2085.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-c5.flac" midi_note="72">
+    <clip end="4268.526" start="0.000"/>
+    <loop end="2115.011" start="2115.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-cis5.flac" midi_note="73">
+    <clip end="4231.610" start="0.000"/>
+    <loop end="2095.011" start="2095.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-d5.flac" midi_note="74">
+    <clip end="4357.914" start="0.000"/>
+    <loop end="2165.011" start="2165.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-dis5.flac" midi_note="75">
+    <clip end="4506.508" start="0.000"/>
+    <loop end="2235.011" start="2235.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-e5.flac" midi_note="76">
+    <clip end="4486.327" start="0.000"/>
+    <loop end="2225.011" start="2225.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-f5.flac" midi_note="77">
+    <clip end="4415.193" start="0.000"/>
+    <loop end="2195.011" start="2195.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-fis5.flac" midi_note="78">
+    <clip end="4747.868" start="0.000"/>
+    <loop end="2355.011" start="2355.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-g5.flac" midi_note="79">
+    <clip end="4479.728" start="0.000"/>
+    <loop end="2225.011" start="2225.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-gis5.flac" midi_note="80">
+    <clip end="4366.463" start="0.000"/>
+    <loop end="2165.011" start="2165.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-a5.flac" midi_note="81">
+    <clip end="4401.429" start="0.000"/>
+    <loop end="2185.011" start="2185.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-ais5.flac" midi_note="82">
+    <clip end="4291.859" start="0.000"/>
+    <loop end="2125.011" start="2125.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-h5.flac" midi_note="83">
+    <clip end="4294.104" start="0.000"/>
+    <loop end="2125.011" start="2125.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-c6.flac" midi_note="84">
+    <clip end="4174.898" start="0.000"/>
+    <loop end="2065.011" start="2065.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-cis6.flac" midi_note="85">
+    <clip end="4428.662" start="0.000"/>
+    <loop end="2195.011" start="2195.011" type="single-frame"/>
+  </sample>
+  <sample filename="trumpet-ff-d6.flac" midi_note="86">
+    <clip end="4470.930" start="0.000"/>
+    <loop end="2215.011" start="2215.011" type="single-frame"/>
+  </sample>
+  <auto_volume method="from-loop"/>
+  <auto_tune method="simple"/>
+</instrument>
