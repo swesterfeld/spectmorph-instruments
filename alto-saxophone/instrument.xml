@@ -1,0 +1,132 @@
+<instrument name="Alto Saxophone" short_name="as">
+  <sample filename="note-49.flac" midi_note="49">
+    <clip start="12.426" end="2739.955"/>
+    <loop type="single-frame" start="1357.438" end="1357.438"/>
+  </sample>
+  <sample filename="note-50.flac" midi_note="50">
+    <clip start="18.141" end="3448.163"/>
+    <loop type="single-frame" start="1713.152" end="1713.152"/>
+  </sample>
+  <sample filename="note-51.flac" midi_note="51">
+    <clip start="26.757" end="2995.374"/>
+    <loop type="single-frame" start="1491.769" end="1491.769"/>
+  </sample>
+  <sample filename="note-52.flac" midi_note="52">
+    <clip start="41.179" end="3198.549"/>
+    <loop type="single-frame" start="1606.190" end="1606.190"/>
+  </sample>
+  <sample filename="note-53.flac" midi_note="53">
+    <clip start="13.719" end="2705.125"/>
+    <loop type="single-frame" start="1338.730" end="1338.730"/>
+  </sample>
+  <sample filename="note-54.flac" midi_note="54">
+    <clip start="19.342" end="2676.100"/>
+    <loop type="single-frame" start="1334.354" end="1334.354"/>
+  </sample>
+  <sample filename="note-55.flac" midi_note="55">
+    <clip start="23.333" end="2647.075"/>
+    <loop type="single-frame" start="1318.345" end="1318.345"/>
+  </sample>
+  <sample filename="note-56.flac" midi_note="56">
+    <clip start="20.045" end="2519.365"/>
+    <loop type="single-frame" start="1255.057" end="1255.057"/>
+  </sample>
+  <sample filename="note-57.flac" midi_note="57">
+    <clip start="17.528" end="2333.605"/>
+    <loop type="single-frame" start="1162.540" end="1162.540"/>
+  </sample>
+  <sample filename="note-58.flac" midi_note="58">
+    <clip start="20.930" end="2681.905"/>
+    <loop type="single-frame" start="1335.941" end="1335.941"/>
+  </sample>
+  <sample filename="note-59.flac" midi_note="59">
+    <clip start="28.458" end="2623.855"/>
+    <loop type="single-frame" start="1313.469" end="1313.469"/>
+  </sample>
+  <sample filename="note-60.flac" midi_note="60">
+    <clip start="20.635" end="2420.680"/>
+    <loop type="single-frame" start="1205.646" end="1205.646"/>
+  </sample>
+  <sample filename="note-61.flac" midi_note="61">
+    <clip start="19.433" end="2409.070"/>
+    <loop type="single-frame" start="1194.444" end="1194.444"/>
+  </sample>
+  <sample filename="note-62.flac" midi_note="62">
+    <clip start="36.168" end="2699.320"/>
+    <loop type="single-frame" start="1351.179" end="1351.179"/>
+  </sample>
+  <sample filename="note-63.flac" midi_note="63">
+    <clip start="62.744" end="2443.900"/>
+    <loop type="single-frame" start="1237.755" end="1237.755"/>
+  </sample>
+  <sample filename="note-64.flac" midi_note="64">
+    <clip start="61.927" end="2530.975"/>
+    <loop type="single-frame" start="1276.939" end="1276.939"/>
+  </sample>
+  <sample filename="note-65.flac" midi_note="65">
+    <clip start="60.522" end="2751.565"/>
+    <loop type="single-frame" start="1385.533" end="1385.533"/>
+  </sample>
+  <sample filename="note-66.flac" midi_note="66">
+    <clip start="72.562" end="2339.410"/>
+    <loop type="single-frame" start="1187.574" end="1187.574"/>
+  </sample>
+  <sample filename="note-67.flac" midi_note="67">
+    <clip start="62.925" end="2786.395"/>
+    <loop type="single-frame" start="1407.937" end="1407.937"/>
+  </sample>
+  <sample filename="note-68.flac" midi_note="68">
+    <clip start="59.524" end="2658.685"/>
+    <loop type="single-frame" start="1344.535" end="1344.535"/>
+  </sample>
+  <sample filename="note-69.flac" midi_note="69">
+    <clip start="95.510" end="2705.125"/>
+    <loop type="single-frame" start="1380.522" end="1380.522"/>
+  </sample>
+  <sample filename="note-70.flac" midi_note="70">
+    <clip start="43.991" end="2983.764"/>
+    <loop type="single-frame" start="1499.002" end="1499.002"/>
+  </sample>
+  <sample filename="note-71.flac" midi_note="71">
+    <clip start="52.404" end="3088.254"/>
+    <loop type="single-frame" start="1557.415" end="1557.415"/>
+  </sample>
+  <sample filename="note-72.flac" midi_note="72">
+    <clip start="47.800" end="3303.039"/>
+    <loop type="single-frame" start="1662.812" end="1662.812"/>
+  </sample>
+  <sample filename="note-73.flac" midi_note="73">
+    <clip start="65.034" end="2780.590"/>
+    <loop type="single-frame" start="1410.045" end="1410.045"/>
+  </sample>
+  <sample filename="note-74.flac" midi_note="74">
+    <clip start="69.138" end="2728.345"/>
+    <loop type="single-frame" start="1384.150" end="1384.150"/>
+  </sample>
+  <sample filename="note-75.flac" midi_note="75">
+    <clip start="75.057" end="2739.955"/>
+    <loop type="single-frame" start="1390.068" end="1390.068"/>
+  </sample>
+  <sample filename="note-76.flac" midi_note="76">
+    <clip start="66.440" end="2948.934"/>
+    <loop type="single-frame" start="1491.451" end="1491.451"/>
+  </sample>
+  <sample filename="note-77.flac" midi_note="77">
+    <clip start="23.855" end="3152.109"/>
+    <loop type="single-frame" start="1568.866" end="1568.866"/>
+  </sample>
+  <sample filename="note-78.flac" midi_note="78">
+    <clip start="64.830" end="3053.424"/>
+    <loop type="single-frame" start="1539.841" end="1539.841"/>
+  </sample>
+  <sample filename="note-79.flac" midi_note="79">
+    <clip start="47.891" end="2786.395"/>
+    <loop type="single-frame" start="1402.902" end="1402.902"/>
+  </sample>
+  <sample filename="note-80.flac" midi_note="80">
+    <clip start="62.925" end="2577.415"/>
+    <loop type="single-frame" start="1297.937" end="1297.937"/>
+  </sample>
+  <auto_volume method="from-loop"/>
+  <auto_tune method="simple"/>
+</instrument>
