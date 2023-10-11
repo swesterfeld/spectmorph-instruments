@@ -1,101 +1,134 @@
 <instrument name="Mirko Ah" short_name="mah">
   <sample filename="mirko-ah-48.flac" midi_note="48">
+    <clip start="0.000" end="1025.238"/>
     <loop type="ping-pong" start="455.011" end="595.011"/>
   </sample>
   <sample filename="mirko-ah-49.flac" midi_note="49">
+    <clip start="0.000" end="979.683"/>
     <loop type="ping-pong" start="495.011" end="585.011"/>
   </sample>
   <sample filename="mirko-ah-50.flac" midi_note="50">
+    <clip start="0.000" end="1097.551"/>
     <loop type="ping-pong" start="425.011" end="505.011"/>
   </sample>
   <sample filename="mirko-ah-51.flac" midi_note="51">
+    <clip start="0.000" end="1081.361"/>
     <loop type="ping-pong" start="495.011" end="605.011"/>
   </sample>
   <sample filename="mirko-ah-52.flac" midi_note="52">
+    <clip start="0.000" end="1100.567"/>
     <loop type="ping-pong" start="565.011" end="705.011"/>
   </sample>
   <sample filename="mirko-ah-53.flac" midi_note="53">
+    <clip start="0.000" end="1043.084"/>
     <loop type="ping-pong" start="515.011" end="785.011"/>
   </sample>
   <sample filename="mirko-ah-54.flac" midi_note="54">
+    <clip start="0.000" end="986.667"/>
     <loop type="ping-pong" start="475.011" end="675.011"/>
   </sample>
   <sample filename="mirko-ah-55.flac" midi_note="55">
+    <clip start="0.000" end="1182.857"/>
     <loop type="ping-pong" start="635.011" end="875.011"/>
   </sample>
   <sample filename="mirko-ah-56.flac" midi_note="56">
+    <clip start="0.000" end="1136.485"/>
     <loop type="ping-pong" start="595.011" end="845.011"/>
   </sample>
   <sample filename="mirko-ah-57.flac" midi_note="57">
+    <clip start="0.000" end="1186.485"/>
     <loop type="ping-pong" start="595.011" end="805.011"/>
   </sample>
   <sample filename="mirko-ah-58.flac" midi_note="58">
+    <clip start="0.000" end="1114.558"/>
     <loop type="forward" start="505.011" end="695.011"/>
   </sample>
   <sample filename="mirko-ah-60.flac" midi_note="60">
+    <clip start="0.000" end="1549.569"/>
     <loop type="ping-pong" start="815.011" end="955.011"/>
   </sample>
   <sample filename="mirko-ah-61.flac" midi_note="61">
+    <clip start="0.000" end="1697.664"/>
     <loop type="ping-pong" start="635.011" end="735.011"/>
   </sample>
   <sample filename="mirko-ah-62.flac" midi_note="62">
+    <clip start="0.000" end="1829.592"/>
     <loop type="ping-pong" start="885.011" end="1025.011"/>
   </sample>
   <sample filename="mirko-ah-63.flac" midi_note="63">
+    <clip start="0.000" end="1681.973"/>
     <loop type="ping-pong" start="685.011" end="835.011"/>
   </sample>
   <sample filename="mirko-ah-64.flac" midi_note="64">
+    <clip start="0.000" end="1836.780"/>
     <loop type="ping-pong" start="825.011" end="965.011"/>
   </sample>
   <sample filename="mirko-ah-65.flac" midi_note="65">
+    <clip start="0.000" end="1708.639"/>
     <loop type="ping-pong" start="625.011" end="765.011"/>
   </sample>
   <sample filename="mirko-ah-66.flac" midi_note="66">
+    <clip start="0.000" end="1756.190"/>
     <loop type="ping-pong" start="615.011" end="785.011"/>
   </sample>
   <sample filename="mirko-ah-67.flac" midi_note="67">
+    <clip start="0.000" end="1802.585"/>
     <loop type="ping-pong" start="655.011" end="815.011"/>
   </sample>
   <sample filename="mirko-ah-68.flac" midi_note="68">
+    <clip start="0.000" end="1885.510"/>
     <loop type="ping-pong" start="695.011" end="845.011"/>
   </sample>
   <sample filename="mirko-ah-69.flac" midi_note="69">
+    <clip start="0.000" end="1857.664"/>
     <loop type="ping-pong" start="655.011" end="835.011"/>
   </sample>
   <sample filename="mirko-ah-70.flac" midi_note="70">
+    <clip start="0.000" end="1974.580"/>
     <loop type="forward" start="675.011" end="885.011"/>
   </sample>
   <sample filename="mirko-ah-71.flac" midi_note="71">
+    <clip start="0.000" end="1751.655"/>
     <loop type="ping-pong" start="615.011" end="755.011"/>
   </sample>
   <sample filename="mirko-ah-72.flac" midi_note="72">
+    <clip start="0.000" end="1892.721"/>
     <loop type="ping-pong" start="765.011" end="895.011"/>
   </sample>
   <sample filename="mirko-ah-73.flac" midi_note="73">
+    <clip start="0.000" end="1610.930"/>
     <loop type="ping-pong" start="655.011" end="725.011"/>
   </sample>
   <sample filename="mirko-ah-74.flac" midi_note="74">
+    <clip start="0.000" end="1847.642"/>
     <loop type="ping-pong" start="755.011" end="835.011"/>
   </sample>
   <sample filename="mirko-ah-75.flac" midi_note="75">
+    <clip start="0.000" end="1982.834"/>
     <loop type="ping-pong" start="815.011" end="895.011"/>
   </sample>
   <sample filename="mirko-ah-76.flac" midi_note="76">
+    <clip start="0.000" end="2045.420"/>
     <loop type="forward" start="815.011" end="925.011"/>
   </sample>
   <sample filename="mirko-ah-77.flac" midi_note="77">
+    <clip start="0.000" end="1797.642"/>
     <loop type="ping-pong" start="675.011" end="805.011"/>
   </sample>
   <sample filename="mirko-ah-78.flac" midi_note="78">
+    <clip start="0.000" end="1731.497"/>
     <loop type="ping-pong" start="655.011" end="775.011"/>
   </sample>
   <sample filename="mirko-ah-79.flac" midi_note="79">
+    <clip start="0.000" end="1928.005"/>
     <loop type="ping-pong" start="725.011" end="865.011"/>
   </sample>
   <sample filename="mirko-ah-80.flac" midi_note="80">
+    <clip start="0.000" end="1876.667"/>
     <loop type="ping-pong" start="695.011" end="845.011"/>
   </sample>
   <sample filename="mirko-ah-81.flac" midi_note="81">
+    <clip start="0.000" end="1946.939"/>
     <loop type="ping-pong" start="765.011" end="915.011"/>
   </sample>
   <auto_volume method="from-loop"/>
