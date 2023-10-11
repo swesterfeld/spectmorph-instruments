@@ -1,0 +1,152 @@
+<instrument name="Violin">
+  <sample filename="g-note-56.flac" midi_note="56">
+    <clip end="6251.973" start="43.810"/>
+    <loop end="2768.821" start="2148.821" type="ping-pong"/>
+  </sample>
+  <sample filename="g-note-57.flac" midi_note="57">
+    <clip end="6977.596" start="196.848"/>
+    <loop end="3641.859" start="3431.859" type="ping-pong"/>
+  </sample>
+  <sample filename="g-note-58.flac" midi_note="58">
+    <clip end="6344.853" start="234.535"/>
+    <loop end="2719.546" start="2549.546" type="ping-pong"/>
+  </sample>
+  <sample filename="g-note-59.flac" midi_note="59">
+    <clip end="5816.599" start="20.476"/>
+    <loop end="2555.488" start="2145.488" type="ping-pong"/>
+  </sample>
+  <sample filename="g-note-60.flac" midi_note="60">
+    <clip end="5984.943" start="20.068"/>
+    <loop end="805.079" start="645.079" type="ping-pong"/>
+  </sample>
+  <sample filename="g-note-61.flac" midi_note="61">
+    <clip end="5456.689" start="42.268"/>
+    <loop end="857.279" start="567.279" type="ping-pong"/>
+  </sample>
+  <sample filename="d-note-62.flac" midi_note="62">
+    <clip end="7291.066" start="9.796"/>
+    <loop end="3634.807" start="2874.807" type="ping-pong"/>
+  </sample>
+  <sample filename="d-note-63.flac" midi_note="63">
+    <clip end="7482.630" start="6.190"/>
+    <loop end="821.202" start="751.202" type="forward"/>
+  </sample>
+  <sample filename="d-note-64.flac" midi_note="64">
+    <clip end="6977.596" start="8.050"/>
+    <loop end="1093.061" start="903.061" type="ping-pong"/>
+  </sample>
+  <sample filename="d-note-65.flac" midi_note="65">
+    <clip end="6658.322" start="44.739"/>
+    <loop end="1699.751" start="1429.751" type="ping-pong"/>
+  </sample>
+  <sample filename="d-note-66.flac" midi_note="66">
+    <clip end="7407.166" start="13.583"/>
+    <loop end="1438.594" start="1188.594" type="ping-pong"/>
+  </sample>
+  <sample filename="d-note-67.flac" midi_note="67">
+    <clip end="7203.991" start="29.161"/>
+    <loop end="1134.172" start="984.172" type="ping-pong"/>
+  </sample>
+  <sample filename="d-note-68.flac" midi_note="68">
+    <clip end="6896.327" start="71.247"/>
+    <loop end="1136.259" start="756.259" type="ping-pong"/>
+  </sample>
+  <sample filename="a-note-69.flac" midi_note="69">
+    <clip end="5926.893" start="44.059"/>
+    <loop end="2149.070" start="1649.070" type="ping-pong"/>
+  </sample>
+  <sample filename="a-note-70.flac" midi_note="70">
+    <clip end="5764.354" start="9.297"/>
+    <loop end="2194.308" start="1814.308" type="ping-pong"/>
+  </sample>
+  <sample filename="a-note-71.flac" midi_note="71">
+    <clip end="5741.134" start="92.517"/>
+    <loop end="3257.528" start="2647.528" type="ping-pong"/>
+  </sample>
+  <sample filename="a-note-73.flac" midi_note="73">
+    <clip end="5596.009" start="85.170"/>
+    <loop end="1110.181" start="920.181" type="ping-pong"/>
+  </sample>
+  <sample filename="a-note-74.flac" midi_note="74">
+    <clip end="5381.224" start="36.122"/>
+    <loop end="1591.134" start="1221.134" type="ping-pong"/>
+  </sample>
+  <sample filename="a-note-75.flac" midi_note="75">
+    <clip end="5056.145" start="32.132"/>
+    <loop end="2517.143" start="2037.143" type="ping-pong"/>
+  </sample>
+  <sample filename="e-note-76.flac" midi_note="76">
+    <clip end="6141.678" start="61.474"/>
+    <loop end="3036.485" start="2526.485" type="ping-pong"/>
+  </sample>
+  <sample filename="e-note-77.flac" midi_note="77">
+    <clip end="5520.544" start="77.551"/>
+    <loop end="1182.562" start="682.562" type="ping-pong"/>
+  </sample>
+  <sample filename="e-note-78.flac" midi_note="78">
+    <clip end="5955.918" start="81.519"/>
+    <loop end="2996.531" start="2326.531" type="forward"/>
+  </sample>
+  <sample filename="e-note-79.flac" midi_note="79">
+    <clip end="6710.567" start="139.184"/>
+    <loop end="3024.195" start="2664.195" type="ping-pong"/>
+  </sample>
+  <sample filename="e-note-80.flac" midi_note="80">
+    <clip end="6182.313" start="78.209"/>
+    <loop end="2463.220" start="1843.220" type="ping-pong"/>
+  </sample>
+  <sample filename="e-note-81.flac" midi_note="81">
+    <clip end="6315.828" start="32.812"/>
+    <loop end="2377.823" start="1857.823" type="ping-pong"/>
+  </sample>
+  <sample filename="e-note-82.flac" midi_note="82">
+    <clip end="5915.283" start="45.737"/>
+    <loop end="1820.748" start="1170.748" type="ping-pong"/>
+  </sample>
+  <sample filename="e-note-83.flac" midi_note="83">
+    <clip end="5868.844" start="12.925"/>
+    <loop end="2927.937" start="2227.937" type="ping-pong"/>
+  </sample>
+  <sample filename="e-note-84.flac" midi_note="84">
+    <clip end="5723.719" start="143.492"/>
+    <loop end="3018.503" start="2838.503" type="ping-pong"/>
+  </sample>
+  <sample filename="e-note-85.flac" midi_note="85">
+    <clip end="6089.433" start="56.667"/>
+    <loop end="3051.678" start="2441.678" type="ping-pong"/>
+  </sample>
+  <sample filename="e-note-85.flac" midi_note="86">
+    <clip end="6089.433" start="56.667"/>
+    <loop end="3041.678" start="2431.678" type="ping-pong"/>
+  </sample>
+  <sample filename="e-note-86.flac" midi_note="87">
+    <clip end="6385.488" start="67.279"/>
+    <loop end="3212.290" start="2662.290" type="ping-pong"/>
+  </sample>
+  <sample filename="e-note-87.flac" midi_note="88">
+    <clip end="6327.438" start="94.785"/>
+    <loop end="3189.796" start="2729.796" type="ping-pong"/>
+  </sample>
+  <sample filename="e-note-87.flac" midi_note="89">
+    <clip end="6327.438" start="95.102"/>
+    <loop end="3190.113" start="2580.113" type="ping-pong"/>
+  </sample>
+  <sample filename="e-note-88.flac" midi_note="90">
+    <clip end="5584.399" start="9.932"/>
+    <loop end="1534.943" start="1214.943" type="ping-pong"/>
+  </sample>
+  <sample filename="e-note-88.flac" midi_note="91">
+    <clip end="5584.399" start="9.592"/>
+    <loop end="2774.603" start="1924.603" type="ping-pong"/>
+  </sample>
+  <sample filename="e-note-89.flac" midi_note="92">
+    <clip end="4771.701" start="96.440"/>
+    <loop end="1961.451" start="1701.451" type="ping-pong"/>
+  </sample>
+  <sample filename="e-note-89.flac" midi_note="93">
+    <clip end="4771.701" start="101.088"/>
+    <loop end="2016.100" start="1836.100" type="ping-pong"/>
+  </sample>
+  <auto_volume method="from-loop"/>
+  <auto_tune method="all-frames" partials="1"/>
+</instrument>
