@@ -1,0 +1,140 @@
+<instrument name="Mirko Oh" short_name="moh">
+  <sample filename="mirko-oh-48.flac" midi_note="48">
+    <clip start="0.000" end="930.907"/>
+    <loop type="ping-pong" start="445.011" end="555.011"/>
+  </sample>
+  <sample filename="mirko-oh-49.flac" midi_note="49">
+    <clip start="0.000" end="973.878"/>
+    <loop type="ping-pong" start="465.011" end="575.011"/>
+  </sample>
+  <sample filename="mirko-oh-50.flac" midi_note="50">
+    <clip start="0.000" end="1049.025"/>
+    <loop type="ping-pong" start="505.011" end="645.011"/>
+  </sample>
+  <sample filename="mirko-oh-51.flac" midi_note="51">
+    <clip start="0.000" end="1105.215"/>
+    <loop type="ping-pong" start="535.011" end="665.011"/>
+  </sample>
+  <sample filename="mirko-oh-52.flac" midi_note="52">
+    <clip start="0.000" end="1073.401"/>
+    <loop type="ping-pong" start="515.011" end="695.011"/>
+  </sample>
+  <sample filename="mirko-oh-53.flac" midi_note="53">
+    <clip start="0.000" end="1125.601"/>
+    <loop type="ping-pong" start="545.011" end="715.011"/>
+  </sample>
+  <sample filename="mirko-oh-54.flac" midi_note="54">
+    <clip start="0.000" end="1042.902"/>
+    <loop type="ping-pong" start="505.011" end="665.011"/>
+  </sample>
+  <sample filename="mirko-oh-55.flac" midi_note="55">
+    <clip start="0.000" end="1052.313"/>
+    <loop type="ping-pong" start="505.011" end="655.011"/>
+  </sample>
+  <sample filename="mirko-oh-56.flac" midi_note="56">
+    <clip start="0.000" end="1377.211"/>
+    <loop type="ping-pong" start="525.011" end="655.011"/>
+  </sample>
+  <sample filename="mirko-oh-57.flac" midi_note="57">
+    <clip start="0.000" end="1326.508"/>
+    <loop type="forward" start="645.011" end="825.011"/>
+  </sample>
+  <sample filename="mirko-oh-58.flac" midi_note="58">
+    <clip start="0.000" end="1217.528"/>
+    <loop type="ping-pong" start="685.011" end="775.011"/>
+  </sample>
+  <sample filename="mirko-oh-59.flac" midi_note="59">
+    <clip start="0.000" end="1143.265"/>
+    <loop type="forward" start="555.011" end="745.011"/>
+  </sample>
+  <sample filename="mirko-oh-60.flac" midi_note="60">
+    <clip start="0.000" end="1296.689"/>
+    <loop type="forward" start="635.011" end="845.011"/>
+  </sample>
+  <sample filename="mirko-oh-61.flac" midi_note="61">
+    <clip start="0.000" end="2112.449"/>
+    <loop type="forward" start="855.011" end="1055.011"/>
+  </sample>
+  <sample filename="mirko-oh-62.flac" midi_note="62">
+    <clip start="0.000" end="1948.231"/>
+    <loop type="forward" start="715.011" end="875.011"/>
+  </sample>
+  <sample filename="mirko-oh-63.flac" midi_note="63">
+    <clip start="0.000" end="1825.624"/>
+    <loop type="forward" start="655.011" end="825.011"/>
+  </sample>
+  <sample filename="mirko-oh-64.flac" midi_note="64">
+    <clip start="0.000" end="1839.410"/>
+    <loop type="forward" start="665.011" end="825.011"/>
+  </sample>
+  <sample filename="mirko-oh-65.flac" midi_note="65">
+    <clip start="0.000" end="2102.925"/>
+    <loop type="forward" start="755.011" end="945.011"/>
+  </sample>
+  <sample filename="mirko-oh-66.flac" midi_note="66">
+    <clip start="0.000" end="2107.642"/>
+    <loop type="forward" start="785.011" end="955.011"/>
+  </sample>
+  <sample filename="mirko-oh-67.flac" midi_note="67">
+    <clip start="0.000" end="1845.805"/>
+    <loop type="forward" start="645.011" end="835.011"/>
+  </sample>
+  <sample filename="mirko-oh-68.flac" midi_note="68">
+    <clip start="0.000" end="1760.023"/>
+    <loop type="forward" start="595.011" end="795.011"/>
+  </sample>
+  <sample filename="mirko-oh-69.flac" midi_note="69">
+    <clip start="0.000" end="1994.830"/>
+    <loop type="forward" start="695.011" end="895.011"/>
+  </sample>
+  <sample filename="mirko-oh-70.flac" midi_note="70">
+    <clip start="0.000" end="2119.615"/>
+    <loop type="forward" start="745.011" end="955.011"/>
+  </sample>
+  <sample filename="mirko-oh-71.flac" midi_note="71">
+    <clip start="0.000" end="1835.692"/>
+    <loop type="forward" start="645.011" end="825.011"/>
+  </sample>
+  <sample filename="mirko-oh-72.flac" midi_note="72">
+    <clip start="0.000" end="1655.918"/>
+    <loop type="forward" start="565.011" end="745.011"/>
+  </sample>
+  <sample filename="mirko-oh-73.flac" midi_note="73">
+    <clip start="0.000" end="1894.082"/>
+    <loop type="forward" start="695.011" end="855.011"/>
+  </sample>
+  <sample filename="mirko-oh-74.flac" midi_note="74">
+    <clip start="0.000" end="1587.732"/>
+    <loop type="forward" start="515.011" end="715.011"/>
+  </sample>
+  <sample filename="mirko-oh-75.flac" midi_note="75">
+    <clip start="0.000" end="1692.268"/>
+    <loop type="ping-pong" start="655.011" end="755.011"/>
+  </sample>
+  <sample filename="mirko-oh-76.flac" midi_note="76">
+    <clip start="0.000" end="1901.474"/>
+    <loop type="forward" start="625.011" end="855.011"/>
+  </sample>
+  <sample filename="mirko-oh-77.flac" midi_note="77">
+    <clip start="0.000" end="1614.490"/>
+    <loop type="forward" start="525.011" end="725.011"/>
+  </sample>
+  <sample filename="mirko-oh-78.flac" midi_note="78">
+    <clip start="0.000" end="1717.234"/>
+    <loop type="forward" start="575.011" end="775.011"/>
+  </sample>
+  <sample filename="mirko-oh-79.flac" midi_note="79">
+    <clip start="0.000" end="1699.773"/>
+    <loop type="forward" start="585.011" end="765.011"/>
+  </sample>
+  <sample filename="mirko-oh-80.flac" midi_note="80">
+    <clip start="0.000" end="1779.751"/>
+    <loop type="forward" start="645.011" end="805.011"/>
+  </sample>
+  <sample filename="mirko-oh-81.flac" midi_note="81">
+    <clip start="0.000" end="1384.376"/>
+    <loop type="ping-pong" start="595.011" end="725.011"/>
+  </sample>
+  <auto_volume method="from-loop"/>
+  <auto_tune method="simple"/>
+</instrument>
