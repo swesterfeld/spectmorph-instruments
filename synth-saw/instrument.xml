@@ -1,0 +1,92 @@
+<instrument name="Synth Saw" short_name="saw">
+  <sample filename="note-24.flac" midi_note="24">
+    <clip start="0.000" end="5621.333"/>
+    <loop type="forward" start="2093.500" end="3988.375"/>
+  </sample>
+  <sample filename="note-28.flac" midi_note="28">
+    <clip start="0.000" end="5642.667"/>
+    <loop type="forward" start="1636.813" end="3576.813"/>
+  </sample>
+  <sample filename="note-32.flac" midi_note="32">
+    <clip start="0.000" end="5642.667"/>
+    <loop type="forward" start="1453.354" end="3089.604"/>
+  </sample>
+  <sample filename="note-36.flac" midi_note="36">
+    <clip start="0.000" end="5642.667"/>
+    <loop type="forward" start="2603.604" end="3977.979"/>
+  </sample>
+  <sample filename="note-40.flac" midi_note="40">
+    <clip start="0.000" end="3450.667"/>
+    <loop type="forward" start="1073.042" end="2261.292"/>
+  </sample>
+  <sample filename="note-44.flac" midi_note="44">
+    <clip start="0.000" end="3450.667"/>
+    <loop type="forward" start="1445.021" end="2465.021"/>
+  </sample>
+  <sample filename="note-48.flac" midi_note="48">
+    <clip start="0.000" end="3450.667"/>
+    <loop type="forward" start="1175.021" end="2095.021"/>
+  </sample>
+  <sample filename="note-52.flac" midi_note="52">
+    <clip start="0.000" end="2352.000"/>
+    <loop type="forward" start="1055.021" end="1875.021"/>
+  </sample>
+  <sample filename="note-56.flac" midi_note="56">
+    <clip start="0.000" end="2357.333"/>
+    <loop type="forward" start="945.021" end="1625.021"/>
+  </sample>
+  <sample filename="note-60.flac" midi_note="60">
+    <clip start="0.000" end="2357.333"/>
+    <loop type="forward" start="615.021" end="1095.021"/>
+  </sample>
+  <sample filename="note-64.flac" midi_note="64">
+    <clip start="0.000" end="2352.000"/>
+    <loop type="forward" start="765.021" end="1295.021"/>
+  </sample>
+  <sample filename="note-68.flac" midi_note="68">
+    <clip start="0.000" end="2357.333"/>
+    <loop type="forward" start="675.021" end="1125.021"/>
+  </sample>
+  <sample filename="note-72.flac" midi_note="72">
+    <clip start="0.000" end="2352.000"/>
+    <loop type="forward" start="765.021" end="1125.021"/>
+  </sample>
+  <sample filename="note-76.flac" midi_note="76">
+    <clip start="0.000" end="1258.667"/>
+    <loop type="forward" start="515.021" end="775.021"/>
+  </sample>
+  <sample filename="note-80.flac" midi_note="80">
+    <clip start="0.000" end="1264.000"/>
+    <loop type="forward" start="575.021" end="845.021"/>
+  </sample>
+  <sample filename="note-84.flac" midi_note="84">
+    <clip start="0.000" end="1264.000"/>
+    <loop type="forward" start="595.021" end="855.021"/>
+  </sample>
+  <sample filename="note-88.flac" midi_note="88">
+    <clip start="0.000" end="1264.000"/>
+    <loop type="forward" start="625.021" end="855.021"/>
+  </sample>
+  <sample filename="note-92.flac" midi_note="92">
+    <clip start="0.000" end="1264.000"/>
+    <loop type="forward" start="625.021" end="835.021"/>
+  </sample>
+  <sample filename="note-96.flac" midi_note="96">
+    <clip start="0.000" end="1264.000"/>
+    <loop type="forward" start="655.021" end="825.021"/>
+  </sample>
+  <sample filename="note-100.flac" midi_note="100">
+    <clip start="0.000" end="1264.000"/>
+    <loop type="forward" start="635.021" end="785.021"/>
+  </sample>
+  <sample filename="note-104.flac" midi_note="104">
+    <clip start="0.000" end="1264.000"/>
+    <loop type="forward" start="555.021" end="685.021"/>
+  </sample>
+  <sample filename="note-108.flac" midi_note="108">
+    <clip start="0.000" end="1264.000"/>
+    <loop type="forward" start="595.021" end="725.021"/>
+  </sample>
+  <auto_volume method="from-loop"/>
+  <auto_tune method="simple"/>
+</instrument>
