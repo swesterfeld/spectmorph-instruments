@@ -1,0 +1,93 @@
+<instrument name="Claudia Oh" short_name="coh">
+  <sample filename="claudia-oh-2-52.flac" midi_note="52">
+    <clip start="0.000" end="1001.882"/>
+    <loop type="ping-pong" start="487.347" end="656.871"/>
+  </sample>
+  <sample filename="claudia-oh-2-53.flac" midi_note="53">
+    <clip start="0.000" end="1069.977"/>
+    <loop type="ping-pong" start="288.549" end="385.692"/>
+  </sample>
+  <sample filename="claudia-oh-2-55.flac" midi_note="55">
+    <clip start="0.000" end="920.839"/>
+    <loop type="ping-pong" start="313.787" end="390.317"/>
+  </sample>
+  <sample filename="claudia-oh-2-57.flac" midi_note="57">
+    <clip start="0.000" end="1001.088"/>
+    <loop type="ping-pong" start="401.338" end="478.435"/>
+  </sample>
+  <sample filename="claudia-oh-2-59.flac" midi_note="59">
+    <clip start="0.000" end="900.567"/>
+    <loop type="ping-pong" start="365.261" end="450.023"/>
+  </sample>
+  <sample filename="claudia-oh-1-60.flac" midi_note="60">
+    <clip start="0.000" end="1038.118"/>
+    <loop type="ping-pong" start="276.168" end="359.977"/>
+  </sample>
+  <sample filename="claudia-oh-1b-62.flac" midi_note="62">
+    <clip start="0.000" end="1095.125"/>
+    <loop type="ping-pong" start="634.376" end="726.213"/>
+  </sample>
+  <sample filename="claudia-oh-1-64.flac" midi_note="64">
+    <clip start="0.000" end="898.571"/>
+    <loop type="ping-pong" start="260.794" end="333.175"/>
+  </sample>
+  <sample filename="claudia-oh-1-65.flac" midi_note="65">
+    <clip start="0.000" end="889.932"/>
+    <loop type="ping-pong" start="347.120" end="427.120"/>
+  </sample>
+  <sample filename="claudia-oh-1-67.flac" midi_note="67">
+    <clip start="0.000" end="928.934"/>
+    <loop type="ping-pong" start="463.469" end="557.438"/>
+  </sample>
+  <sample filename="claudia-oh-1-69.flac" midi_note="69">
+    <clip start="0.000" end="859.592"/>
+    <loop type="ping-pong" start="325.488" end="405.306"/>
+  </sample>
+  <sample filename="claudia-oh-1-71.flac" midi_note="71">
+    <clip start="0.000" end="973.107"/>
+    <loop type="ping-pong" start="619.819" end="702.132"/>
+  </sample>
+  <sample filename="claudia-oh-1-72.flac" midi_note="72">
+    <clip start="0.000" end="977.438"/>
+    <loop type="ping-pong" start="460.181" end="540.000"/>
+  </sample>
+  <sample filename="claudia-oh-1-74.flac" midi_note="74">
+    <clip start="0.000" end="1002.562"/>
+    <loop type="ping-pong" start="480.136" end="569.932"/>
+  </sample>
+  <sample filename="claudia-oh-1-76.flac" midi_note="76">
+    <clip start="0.000" end="1096.145"/>
+    <loop type="ping-pong" start="557.460" end="649.751"/>
+  </sample>
+  <sample filename="claudia-oh-1-77.flac" midi_note="77">
+    <clip start="0.000" end="1195.805"/>
+    <loop type="ping-pong" start="445.215" end="525.034"/>
+  </sample>
+  <sample filename="claudia-oh-1-79.flac" midi_note="79">
+    <clip start="0.000" end="1149.002"/>
+    <loop type="ping-pong" start="495.102" end="572.426"/>
+  </sample>
+  <sample filename="claudia-oh-1-81.flac" midi_note="81">
+    <clip start="0.000" end="1021.633"/>
+    <loop type="ping-pong" start="437.732" end="512.562"/>
+  </sample>
+  <sample filename="claudia-oh-1-83.flac" midi_note="83">
+    <clip start="0.000" end="1120.431"/>
+    <loop type="ping-pong" start="510.068" end="589.887"/>
+  </sample>
+  <sample filename="claudia-oh-1-84.flac" midi_note="84">
+    <clip start="0.000" end="1063.220"/>
+    <loop type="ping-pong" start="497.596" end="569.932"/>
+  </sample>
+  <sample filename="claudia-oh-1-86.flac" midi_note="86">
+    <clip start="0.000" end="986.100"/>
+    <loop type="ping-pong" start="614.830" end="689.660"/>
+  </sample>
+  <sample filename="claudia-oh-1-88.flac" midi_note="88">
+    <clip start="0.000" end="934.989"/>
+    <loop type="ping-pong" start="607.347" end="684.671"/>
+  </sample>
+  <auto_volume method="from-loop"/>
+  <auto_tune method="smooth" partials="3" time="100" amount="25"/>
+  <encoder_config param="min-frame-size" value="10"/>
+</instrument>

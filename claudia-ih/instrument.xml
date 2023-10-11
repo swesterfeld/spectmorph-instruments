@@ -1,0 +1,93 @@
+<instrument name="Claudia Ih" short_name="cih">
+  <sample filename="claudia-ih-2b-52.flac" midi_note="52">
+    <clip start="0.000" end="1059.433"/>
+    <loop type="ping-pong" start="699.252" end="802.177"/>
+  </sample>
+  <sample filename="claudia-ih-2-53.flac" midi_note="53">
+    <clip start="0.000" end="993.787"/>
+    <loop type="ping-pong" start="437.120" end="545.692"/>
+  </sample>
+  <sample filename="claudia-ih-2-55.flac" midi_note="55">
+    <clip start="0.000" end="821.519"/>
+    <loop type="ping-pong" start="339.297" end="410.726"/>
+  </sample>
+  <sample filename="claudia-ih-2-57.flac" midi_note="57">
+    <clip start="0.000" end="971.905"/>
+    <loop type="ping-pong" start="455.760" end="532.857"/>
+  </sample>
+  <sample filename="claudia-ih-2-59.flac" midi_note="59">
+    <clip start="0.000" end="1047.279"/>
+    <loop type="ping-pong" start="506.531" end="595.329"/>
+  </sample>
+  <sample filename="claudia-ih-2-60.flac" midi_note="60">
+    <clip start="0.000" end="937.029"/>
+    <loop type="ping-pong" start="443.787" end="523.787"/>
+  </sample>
+  <sample filename="claudia-ih-1-62.flac" midi_note="62">
+    <clip start="0.000" end="981.610"/>
+    <loop type="ping-pong" start="331.655" end="426.893"/>
+  </sample>
+  <sample filename="claudia-ih-1-64.flac" midi_note="64">
+    <clip start="0.000" end="1039.977"/>
+    <loop type="ping-pong" start="580.476" end="652.857"/>
+  </sample>
+  <sample filename="claudia-ih-1-65.flac" midi_note="65">
+    <clip start="0.000" end="1114.558"/>
+    <loop type="ping-pong" start="558.549" end="644.263"/>
+  </sample>
+  <sample filename="claudia-ih-1-67.flac" midi_note="67">
+    <clip start="0.000" end="1160.771"/>
+    <loop type="ping-pong" start="552.358" end="628.549"/>
+  </sample>
+  <sample filename="claudia-ih-1-69.flac" midi_note="69">
+    <clip start="0.000" end="1054.580"/>
+    <loop type="ping-pong" start="410.295" end="485.125"/>
+  </sample>
+  <sample filename="claudia-ih-1-71.flac" midi_note="71">
+    <clip start="0.000" end="966.236"/>
+    <loop type="ping-pong" start="447.710" end="522.540"/>
+  </sample>
+  <sample filename="claudia-ih-1-72.flac" midi_note="72">
+    <clip start="0.000" end="990.544"/>
+    <loop type="ping-pong" start="410.295" end="487.619"/>
+  </sample>
+  <sample filename="claudia-ih-1-74.flac" midi_note="74">
+    <clip start="0.000" end="948.390"/>
+    <loop type="ping-pong" start="375.374" end="457.687"/>
+  </sample>
+  <sample filename="claudia-ih-1b-76.flac" midi_note="76">
+    <clip start="0.000" end="1007.642"/>
+    <loop type="ping-pong" start="390.340" end="462.676"/>
+  </sample>
+  <sample filename="claudia-ih-1-77.flac" midi_note="77">
+    <clip start="0.000" end="1185.079"/>
+    <loop type="ping-pong" start="402.812" end="477.642"/>
+  </sample>
+  <sample filename="claudia-ih-1-79.flac" midi_note="79">
+    <clip start="0.000" end="1127.528"/>
+    <loop type="ping-pong" start="417.778" end="490.113"/>
+  </sample>
+  <sample filename="claudia-ih-1-81.flac" midi_note="81">
+    <clip start="0.000" end="1290.454"/>
+    <loop type="ping-pong" start="370.386" end="452.698"/>
+  </sample>
+  <sample filename="claudia-ih-1-83.flac" midi_note="83">
+    <clip start="0.000" end="1267.755"/>
+    <loop type="ping-pong" start="337.959" end="422.766"/>
+  </sample>
+  <sample filename="claudia-ih-1-84.flac" midi_note="84">
+    <clip start="0.000" end="1186.689"/>
+    <loop type="ping-pong" start="437.732" end="500.091"/>
+  </sample>
+  <sample filename="claudia-ih-1-86.flac" midi_note="86">
+    <clip start="0.000" end="823.537"/>
+    <loop type="ping-pong" start="452.698" end="619.819"/>
+  </sample>
+  <sample filename="claudia-ih-1-88.flac" midi_note="88">
+    <clip start="0.000" end="986.485"/>
+    <loop type="ping-pong" start="622.313" end="692.154"/>
+  </sample>
+  <auto_volume method="from-loop"/>
+  <auto_tune method="smooth" partials="3" time="100" amount="25"/>
+  <encoder_config param="min-frame-size" value="10"/>
+</instrument>
