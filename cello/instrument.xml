@@ -1,0 +1,172 @@
+<instrument name="Cello" short_name="cel">
+  <sample filename="c-note-36.flac" midi_note="36">
+    <clip start="54.331" end="6327.438"/>
+    <loop type="forward" start="749.751" end="765.034"/>
+  </sample>
+  <sample filename="c-note-37.flac" midi_note="37">
+    <clip start="16.848" end="4359.546"/>
+    <loop type="forward" start="1047.982" end="1062.404"/>
+  </sample>
+  <sample filename="c-note-38.flac" midi_note="38">
+    <clip start="16.508" end="5613.424"/>
+    <loop type="forward" start="921.247" end="948.458"/>
+  </sample>
+  <sample filename="c-note-40.flac" midi_note="39">
+    <clip start="70.794" end="4498.866"/>
+    <loop type="forward" start="462.177" end="487.846"/>
+  </sample>
+  <sample filename="c-note-41.flac" midi_note="40">
+    <clip start="11.678" end="3970.612"/>
+    <loop type="forward" start="454.490" end="503.016"/>
+  </sample>
+  <sample filename="c-note-43.flac" midi_note="41">
+    <clip start="10.431" end="3808.073"/>
+    <loop type="forward" start="325.351" end="371.156"/>
+  </sample>
+  <sample filename="c-note-44.flac" midi_note="42">
+    <clip start="12.517" end="3244.989"/>
+    <loop type="forward" start="395.624" end="438.798"/>
+  </sample>
+  <sample filename="g-note-43.flac" midi_note="43">
+    <clip start="9.773" end="7534.875"/>
+    <loop type="forward" start="708.775" end="759.796"/>
+  </sample>
+  <sample filename="g-note-44.flac" midi_note="44">
+    <clip start="15.374" end="4841.361"/>
+    <loop type="forward" start="560.385" end="600.385"/>
+  </sample>
+  <sample filename="g-note-45.flac" midi_note="45">
+    <clip start="24.512" end="4852.971"/>
+    <loop type="forward" start="209.524" end="259.524"/>
+  </sample>
+  <sample filename="g-note-46.flac" midi_note="46">
+    <clip start="126.848" end="5491.519"/>
+    <loop type="forward" start="721.859" end="761.859"/>
+  </sample>
+  <sample filename="g-note-48.flac" midi_note="47">
+    <clip start="9.410" end="3697.778"/>
+    <loop type="forward" start="854.422" end="884.422"/>
+  </sample>
+  <sample filename="g-note-49.flac" midi_note="48">
+    <clip start="33.696" end="3204.354"/>
+    <loop type="forward" start="508.707" end="528.707"/>
+  </sample>
+  <sample filename="g-note-49.flac" midi_note="49">
+    <clip start="33.628" end="3204.354"/>
+    <loop type="ping-pong" start="368.639" end="388.639"/>
+  </sample>
+  <sample filename="d-note-50.flac" midi_note="50">
+    <clip start="65.964" end="7534.875"/>
+    <loop type="forward" start="510.975" end="550.975"/>
+  </sample>
+  <sample filename="d-note-51.flac" midi_note="51">
+    <clip start="11.497" end="3419.138"/>
+    <loop type="forward" start="406.508" end="426.508"/>
+  </sample>
+  <sample filename="d-note-53.flac" midi_note="53">
+    <clip start="8.231" end="3988.027"/>
+    <loop type="forward" start="653.243" end="673.243"/>
+  </sample>
+  <sample filename="d-note-54.flac" midi_note="54">
+    <clip start="5.420" end="3105.669"/>
+    <loop type="forward" start="680.431" end="710.431"/>
+  </sample>
+  <sample filename="d-note-55.flac" midi_note="55">
+    <clip start="55.034" end="2954.739"/>
+    <loop type="forward" start="520.045" end="560.045"/>
+  </sample>
+  <sample filename="d-note-57.flac" midi_note="57">
+    <clip start="29.615" end="2565.805"/>
+    <loop type="forward" start="604.626" end="644.626"/>
+  </sample>
+  <sample filename="a-note-58.flac" midi_note="58">
+    <clip start="9.478" end="3018.594"/>
+    <loop type="forward" start="484.490" end="514.490"/>
+  </sample>
+  <sample filename="a-note-59.flac" midi_note="59">
+    <clip start="8.345" end="2902.494"/>
+    <loop type="ping-pong" start="413.356" end="763.356"/>
+  </sample>
+  <sample filename="a-note-60.flac" midi_note="60">
+    <clip start="23.016" end="3076.644"/>
+    <loop type="forward" start="308.027" end="348.027"/>
+  </sample>
+  <sample filename="a-note-61.flac" midi_note="61">
+    <clip start="12.154" end="3117.279"/>
+    <loop type="forward" start="297.166" end="327.166"/>
+  </sample>
+  <sample filename="a-note-63.flac" midi_note="63">
+    <clip start="9.229" end="2705.125"/>
+    <loop type="forward" start="554.240" end="594.240"/>
+  </sample>
+  <sample filename="a-note-64.flac" midi_note="64">
+    <clip start="5.057" end="2995.374"/>
+    <loop type="forward" start="410.068" end="430.068"/>
+  </sample>
+  <sample filename="a-note-65.flac" midi_note="65">
+    <clip start="2.245" end="3012.789"/>
+    <loop type="forward" start="277.256" end="307.256"/>
+  </sample>
+  <sample filename="a-note-66.flac" midi_note="66">
+    <clip start="4.875" end="2803.810"/>
+    <loop type="forward" start="329.887" end="369.887"/>
+  </sample>
+  <sample filename="a-note-67.flac" midi_note="67">
+    <clip start="5.828" end="2560.000"/>
+    <loop type="forward" start="370.839" end="420.839"/>
+  </sample>
+  <sample filename="a-note-68.flac" midi_note="68">
+    <clip start="7.143" end="2200.091"/>
+    <loop type="forward" start="312.154" end="322.154"/>
+  </sample>
+  <sample filename="a-note-69.flac" midi_note="69">
+    <clip start="15.964" end="2054.966"/>
+    <loop type="forward" start="540.975" end="560.975"/>
+  </sample>
+  <sample filename="a-note-70.flac" midi_note="70">
+    <clip start="8.163" end="1869.206"/>
+    <loop type="forward" start="483.175" end="503.175"/>
+  </sample>
+  <sample filename="a-note-71.flac" midi_note="71">
+    <clip start="4.694" end="1596.372"/>
+    <loop type="forward" start="449.705" end="479.705"/>
+  </sample>
+  <sample filename="a-note-72.flac" midi_note="72">
+    <clip start="3.628" end="1549.932"/>
+    <loop type="forward" start="358.639" end="388.639"/>
+  </sample>
+  <sample filename="a-note-73.flac" midi_note="73">
+    <clip start="9.342" end="1619.592"/>
+    <loop type="forward" start="394.354" end="414.354"/>
+  </sample>
+  <sample filename="a-note-74.flac" midi_note="74">
+    <clip start="11.973" end="1457.052"/>
+    <loop type="forward" start="406.984" end="426.984"/>
+  </sample>
+  <sample filename="a-note-75.flac" midi_note="75">
+    <clip start="3.447" end="1457.052"/>
+    <loop type="forward" start="388.458" end="408.458"/>
+  </sample>
+  <sample filename="a-note-76.flac" midi_note="76">
+    <clip start="3.923" end="1683.447"/>
+    <loop type="forward" start="468.934" end="488.934"/>
+  </sample>
+  <sample filename="a-note-77.flac" midi_note="77">
+    <clip start="6.259" end="1845.986"/>
+    <loop type="forward" start="271.270" end="311.270"/>
+  </sample>
+  <sample filename="a-note-78.flac" midi_note="78">
+    <clip start="6.916" end="1201.633"/>
+    <loop type="forward" start="341.927" end="351.927"/>
+  </sample>
+  <sample filename="a-note-80.flac" midi_note="80">
+    <clip start="3.084" end="1213.243"/>
+    <loop type="forward" start="398.095" end="408.095"/>
+  </sample>
+  <sample filename="a-note-82.flac" midi_note="82">
+    <clip start="8.458" end="1410.612"/>
+    <loop type="forward" start="343.469" end="363.469"/>
+  </sample>
+  <auto_volume method="from-loop"/>
+  <auto_tune method="all-frames" partials="3"/>
+</instrument>
