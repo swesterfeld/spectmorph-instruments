@@ -124,10 +124,6 @@
 		<clip start="330.648" end="4082.086" />
 		<loop type="ping-pong" start="878.812" end="1654.723" />
 	</sample>
-	<sample filename="SopRSax-ff-56-Gis3.flac" midi_note="58">
-		<clip start="582.690" end="4257.370" />
-		<loop type="ping-pong" start="1446.824" end="2256.085" />
-	</sample>
 	<auto_volume method="from-loop" />
 	<auto_tune method="simple"/>
 </instrument>
