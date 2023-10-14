@@ -30,4 +30,5 @@ smset "synth-saw.smset" "Synth Saw"
 
 group "Strings"
 smset "violin.smset" "Violin"
+smset "viola.smset" "Viola"
 smset "cello.smset" "Cello"

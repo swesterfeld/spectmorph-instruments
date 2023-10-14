@@ -43,6 +43,7 @@ Origin of the Samples / Copyrights:
 * sven-oh: CC0
 * synth-saw: CC0
 * trumpet: IMIS
+* viola: IMIS
 * violin: IMIS
 
 Licenses:

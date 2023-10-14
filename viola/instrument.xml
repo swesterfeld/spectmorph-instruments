@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<instrument name="Viola" short_name="va">
+	<sample filename="Vla_ff-93-A6.flac" midi_note="93">
+		<clip start="154.640" end="2850.295" />
+		<loop type="ping-pong" start="1140.118" end="1710.177" />
+	</sample>
+	<sample filename="Vla_ff-92-Gis6.flac" midi_note="92">
+		<clip start="277.837" end="3004.354" />
+		<loop type="ping-pong" start="1503.404" end="1956.940" />
+	</sample>
+	<sample filename="Vla_ff-91-G6.flac" midi_note="91">
+		<clip start="281.930" end="2850.295" />
+		<loop type="ping-pong" start="1140.118" end="1710.177" />
+	</sample>
+	<sample filename="Vla_ff-90-Fis6.flac" midi_note="90">
+		<clip start="362.911" end="3004.354" />
+		<loop type="ping-pong" start="960.248" end="1453.190" />
+	</sample>
+	<sample filename="Vla_ff-89-F6.flac" midi_note="89">
+		<clip start="234.837" end="2773.243" />
+		<loop type="ping-pong" start="1368.137" end="1663.946" />
+	</sample>
+	<sample filename="Vla_ff-88-E6.flac" midi_note="88">
+		<clip start="337.576" end="3235.465" />
+		<loop type="ping-pong" start="1010.393" end="1781.080" />
+	</sample>
+	<sample filename="Vla_ff-87-Dis6.flac" midi_note="87">
+		<clip start="228.521" end="2927.324" />
+		<loop type="ping-pong" start="1170.930" end="1756.395" />
+	</sample>
+	<sample filename="Vla_ff-86-D6.flac" midi_note="86">
+		<clip start="391.339" end="3158.435" />
+		<loop type="ping-pong" start="804.726" end="1515.675" />
+	</sample>
+	<sample filename="Vla_ff-85-Cis6.flac" midi_note="85">
+		<clip start="357.854" end="3312.494" />
+		<loop type="ping-pong" start="782.085" end="1099.626" />
+	</sample>
+	<sample filename="Vla_ff-84-C6.flac" midi_note="84">
+		<clip start="0.000" end="3316.281" />
+		<loop type="ping-pong" start="999.554" end="1454.395" />
+	</sample>
+	<sample filename="Vla_ff-83-H5.flac" midi_note="83">
+		<clip start="288.781" end="2859.184" />
+		<loop type="ping-pong" start="1143.673" end="1715.510" />
+	</sample>
+	<sample filename="Vla_ff-82-Ais5.flac" midi_note="82">
+		<clip start="147.880" end="2721.950" />
+		<loop type="ping-pong" start="1288.625" end="1633.170" />
+	</sample>
+	<sample filename="Vla_ff-81-A5.flac" midi_note="81">
+		<clip start="215.056" end="2630.454" />
+		<loop type="ping-pong" start="1052.181" end="1456.039" />
+	</sample>
+	<sample filename="Vla_ff-80-Gis5.flac" midi_note="80">
+		<clip start="232.167" end="2767.710" />
+		<loop type="ping-pong" start="1379.388" end="1896.573" />
+	</sample>
+	<sample filename="Vla_ff-79-G5.flac" midi_note="79">
+		<clip start="342.280" end="3042.200" />
+		<loop type="ping-pong" start="1535.206" end="2053.015" />
+	</sample>
+	<sample filename="Vla_ff-78-Fis5.flac" midi_note="78">
+		<clip start="258.327" end="3087.937" />
+		<loop type="ping-pong" start="1584.412" end="2133.821" />
+	</sample>
+	<sample filename="Vla_ff-77-F5.flac" midi_note="77">
+		<clip start="271.789" end="2744.830" />
+		<loop type="ping-pong" start="1097.932" end="1646.898" />
+	</sample>
+	<sample filename="Vla_ff-76-E5.flac" midi_note="76">
+		<clip start="268.900" end="3042.177" />
+		<loop type="ping-pong" start="1216.871" end="1825.306" />
+	</sample>
+	<sample filename="Vla_ff-75-Dis5.flac" midi_note="75">
+		<clip start="253.299" end="2950.703" />
+		<loop type="ping-pong" start="984.739" end="1690.683" />
+	</sample>
+	<sample filename="Vla_ff-74-D5.flac" midi_note="74">
+		<clip start="324.389" end="3133.673" />
+		<loop type="ping-pong" start="1478.422" end="2053.897" />
+	</sample>
+	<sample filename="Vla_ff-73-Cis5.flac" midi_note="73">
+		<clip start="394.322" end="3156.553" />
+		<loop type="ping-pong" start="1262.621" end="1893.932" />
+	</sample>
+	<sample filename="Vla_ff-72-C5.flac" midi_note="72">
+		<clip start="106.248" end="3202.290" />
+		<loop type="ping-pong" start="640.740" end="1253.876" />
+	</sample>
+	<sample filename="Vla_ff-71-H4.flac" midi_note="71">
+		<clip start="245.406" end="3172.449" />
+		<loop type="ping-pong" start="1268.980" end="1903.469" />
+	</sample>
+	<sample filename="Vla_ff-70-Ais4.flac" midi_note="70">
+		<clip start="406.108" end="3806.939" />
+		<loop type="ping-pong" start="1991.477" end="2619.117" />
+	</sample>
+	<sample filename="Vla_ff-69-A4.flac" midi_note="69">
+		<clip start="122.293" end="3943.946" />
+		<loop type="ping-pong" start="1014.276" end="1777.082" />
+	</sample>
+	<sample filename="Vla_ff-68-Gis4.flac" midi_note="68">
+		<clip start="375.203" end="3238.594" />
+		<loop type="ping-pong" start="1295.438" end="1943.156" />
+	</sample>
+	<sample filename="Vla_ff-67-G4.flac" midi_note="67">
+		<clip start="419.649" end="3382.540" />
+		<loop type="ping-pong" start="1353.016" end="2029.524" />
+	</sample>
+	<sample filename="Vla_ff-66-Fis4.flac" midi_note="66">
+		<clip start="185.560" end="2878.753" />
+		<loop type="ping-pong" start="1204.143" end="2090.024" />
+	</sample>
+	<sample filename="Vla_ff-64-E4.flac" midi_note="64">
+		<clip start="538.843" end="4030.249" />
+		<loop type="ping-pong" start="987.605" end="1695.985" />
+	</sample>
+	<sample filename="Vla_ff-63-Dis4.flac" midi_note="63">
+		<clip start="348.443" end="3598.435" />
+		<loop type="ping-pong" start="1082.173" end="1992.834" />
+	</sample>
+	<sample filename="Vla_ff-62-D4.flac" midi_note="62">
+		<clip start="315.654" end="3670.385" />
+		<loop type="ping-pong" start="1254.650" end="1784.178" />
+	</sample>
+	<sample filename="Vla_ff-61-Cis4.flac" midi_note="61">
+		<clip start="339.365" end="3166.621" />
+		<loop type="ping-pong" start="1266.649" end="1755.219" />
+	</sample>
+	<sample filename="Vla_ff-60-C4.flac" midi_note="60">
+		<clip start="129.455" end="3526.463" />
+		<loop type="ping-pong" start="1393.218" end="1748.116" />
+	</sample>
+	<sample filename="Vla_ff-59-H3.flac" midi_note="59">
+		<clip start="525.747" end="3235.465" />
+		<loop type="ping-pong" start="1294.186" end="1941.279" />
+	</sample>
+	<sample filename="Vla_ff-58-Ais3.flac" midi_note="58">
+		<clip start="504.794" end="3081.406" />
+		<loop type="ping-pong" start="1025.002" end="1536.938" />
+	</sample>
+	<sample filename="Vla_ff-57-A3.flac" midi_note="57">
+		<clip start="361.891" end="3312.494" />
+		<loop type="ping-pong" start="1519.313" end="1987.497" />
+	</sample>
+	<sample filename="Vla_ff-56-Gis3.flac" midi_note="56">
+		<clip start="290.749" end="3158.435" />
+		<loop type="ping-pong" start="1263.374" end="1895.061" />
+	</sample>
+	<sample filename="Vla_ff-55-G3.flac" midi_note="55">
+		<clip start="134.041" end="2927.324" />
+		<loop type="ping-pong" start="1170.930" end="1756.395" />
+	</sample>
+	<sample filename="Vla_ff-54-Fis3.flac" midi_note="54">
+		<clip start="319.255" end="3235.465" />
+		<loop type="ping-pong" start="1072.952" end="1680.598" />
+	</sample>
+	<sample filename="Vla_ff-53-F3.flac" midi_note="53">
+		<clip start="388.356" end="3158.435" />
+		<loop type="ping-pong" start="1263.374" end="1895.061" />
+	</sample>
+	<sample filename="Vla_ff-52-E3.flac" midi_note="52">
+		<clip start="661.365" end="3466.553" />
+		<loop type="ping-pong" start="1386.621" end="2079.932" />
+	</sample>
+	<sample filename="Vla_ff-51-Dis3.flac" midi_note="51">
+		<clip start="558.128" end="3620.635" />
+		<loop type="ping-pong" start="1211.225" end="1768.677" />
+	</sample>
+	<sample filename="Vla_ff-50-D3.flac" midi_note="50">
+		<clip start="521.146" end="3543.605" />
+		<loop type="ping-pong" start="1417.442" end="2126.163" />
+	</sample>
+	<sample filename="Vla_ff-49-Cis3.flac" midi_note="49">
+		<clip start="353.423" end="3543.605" />
+		<loop type="ping-pong" start="1203.800" end="1892.467" />
+	</sample>
+	<sample filename="Vla_ff-48-C3.flac" midi_note="48">
+		<clip start="0.000" end="3081.383" />
+		<loop type="ping-pong" start="1232.553" end="1848.830" />
+	</sample>
+	<auto_tune method="smooth" partials="3" time="100.0" amount="25.0" />
+	<auto_volume method="from-loop" />
+</instrument>
