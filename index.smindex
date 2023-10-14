@@ -6,6 +6,7 @@ smset "alto-flute.smset" "Alto Flute"
 smset "oboe.smset" "Oboe"
 smset "pan-flute.smset" "Pan Flute"
 smset "alto-saxophone.smset" "Alto Saxophone"
+smset "soprano-saxophone.smset" "Soprano Saxophone"
 smset "bassoon.smset" "Bassoon"
 
 group "Brass"

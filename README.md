@@ -37,6 +37,7 @@ Origin of the Samples / Copyrights:
 * oboe: IMIS
 * pan-flute: Fluid (R3) GM SoundFont
 * reed-organ Fluid (R3) GM SoundFont
+* soprano-saxophone: IMIS
 * sven-ah: CC0
 * sven-ih: CC0
 * sven-oh: CC0

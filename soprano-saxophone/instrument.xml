@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<instrument name="Soprano Sax" short_name="sax">
+	<sample filename="SopRSax-ff-87-Dis6.flac" midi_note="89">
+		<clip start="540.011" end="4223.560" />
+		<loop type="ping-pong" start="1218.397" end="2218.324" />
+	</sample>
+	<sample filename="SopRSax-ff-86-D6.flac" midi_note="88">
+		<clip start="493.611" end="3461.429" />
+		<loop type="ping-pong" start="1384.571" end="2076.857" />
+	</sample>
+	<sample filename="SopRSax-ff-85-Cis6.flac" midi_note="87">
+		<clip start="844.480" end="3914.989" />
+		<loop type="ping-pong" start="1227.739" end="1729.561" />
+	</sample>
+	<sample filename="SopRSax-ff-84-C6.flac" midi_note="86">
+		<clip start="497.534" end="3941.474" />
+		<loop type="ping-pong" start="1449.629" end="1941.949" />
+	</sample>
+	<sample filename="SopRSax-ff-83-H5.flac" midi_note="85">
+		<clip start="724.037" end="4102.086" />
+		<loop type="ping-pong" start="1320.380" end="2461.252" />
+	</sample>
+	<sample filename="SopRSax-ff-82-Ais5.flac" midi_note="84">
+		<clip start="507.817" end="3771.769" />
+		<loop type="ping-pong" start="1224.418" end="1990.225" />
+	</sample>
+	<sample filename="SopRSax-ff-81-A5.flac" midi_note="83">
+		<clip start="596.937" end="3819.478" />
+		<loop type="ping-pong" start="1718.634" end="2291.687" />
+	</sample>
+	<sample filename="SopRSax-ff-80-Gis5.flac" midi_note="82">
+		<clip start="520.801" end="3795.624" />
+		<loop type="ping-pong" start="1348.271" end="2277.374" />
+	</sample>
+	<sample filename="SopRSax-ff-79-G5.flac" midi_note="81">
+		<clip start="566.362" end="3747.891" />
+		<loop type="ping-pong" start="1711.508" end="2248.735" />
+	</sample>
+	<sample filename="SopRSax-ff-78-Fis5.flac" midi_note="80">
+		<clip start="540.626" end="3962.744" />
+		<loop type="ping-pong" start="1585.098" end="2377.646" />
+	</sample>
+	<sample filename="SopRSax-ff-77-F5.flac" midi_note="79">
+		<clip start="434.673" end="3580.771" />
+		<loop type="ping-pong" start="1345.705" end="1811.226" />
+	</sample>
+	<sample filename="SopRSax-ff-76-E5.flac" midi_note="78">
+		<clip start="451.517" end="3771.769" />
+		<loop type="ping-pong" start="1164.083" end="1760.872" />
+	</sample>
+	<sample filename="SopRSax-ff-75-Dis5.flac" midi_note="77">
+		<clip start="612.326" end="3843.356" />
+		<loop type="ping-pong" start="1129.306" end="1543.205" />
+	</sample>
+	<sample filename="SopRSax-ff-74-D5.flac" midi_note="76">
+		<clip start="712.372" end="3413.673" />
+		<loop type="ping-pong" start="1365.469" end="2048.204" />
+	</sample>
+	<sample filename="SopRSax-ff-73-Cis5.flac" midi_note="75">
+		<clip start="493.260" end="3485.306" />
+		<loop type="ping-pong" start="1065.292" end="1512.556" />
+	</sample>
+	<sample filename="SopRSax-ff-72-C5.flac" midi_note="74">
+		<clip start="567.720" end="3593.787" />
+		<loop type="ping-pong" start="1437.515" end="2008.596" />
+	</sample>
+	<sample filename="SopRSax-ff-71-H4.flac" midi_note="73">
+		<clip start="613.734" end="4132.971" />
+		<loop type="ping-pong" start="1669.357" end="2479.782" />
+	</sample>
+	<sample filename="SopRSax-ff-70-Ais4.flac" midi_note="72">
+		<clip start="564.303" end="3580.771" />
+		<loop type="ping-pong" start="1546.156" end="2148.463" />
+	</sample>
+	<sample filename="SopRSax-ff-69-A4.flac" midi_note="71">
+		<clip start="489.306" end="3509.161" />
+		<loop type="ping-pong" start="1010.659" end="1554.964" />
+	</sample>
+	<sample filename="SopRSax-ff-68-Gis4.flac" midi_note="70">
+		<clip start="895.348" end="4416.304" />
+		<loop type="ping-pong" start="2071.953" end="2276.949" />
+	</sample>
+	<sample filename="SopRSax-ff-67-G4.flac" midi_note="69">
+		<clip start="701.736" end="3986.621" />
+		<loop type="ping-pong" start="1794.452" end="2391.973" />
+	</sample>
+	<sample filename="SopRSax-ff-66-Fis4.flac" midi_note="68">
+		<clip start="696.415" end="3962.744" />
+		<loop type="ping-pong" start="1757.072" end="2215.524" />
+	</sample>
+	<sample filename="SopRSax-ff-65-F4.flac" midi_note="67">
+		<clip start="516.012" end="3795.624" />
+		<loop type="ping-pong" start="1312.840" end="1906.754" />
+	</sample>
+	<sample filename="SopRSax-ff-64-E4.flac" midi_note="66">
+		<clip start="829.997" end="4105.941" />
+		<loop type="ping-pong" start="1642.376" end="2463.565" />
+	</sample>
+	<sample filename="SopRSax-ff-63-Dis4.flac" midi_note="65">
+		<clip start="461.722" end="3724.014" />
+		<loop type="ping-pong" start="1198.992" end="2234.408" />
+	</sample>
+	<sample filename="SopRSax-ff-62-D4.flac" midi_note="64">
+		<clip start="508.634" end="3437.551" />
+		<loop type="ping-pong" start="1375.020" end="2062.531" />
+	</sample>
+	<sample filename="SopRSax-ff-61-Cis4.flac" midi_note="63">
+		<clip start="441.459" end="3843.379" />
+		<loop type="ping-pong" start="1192.992" end="2197.346" />
+	</sample>
+	<sample filename="SopRSax-ff-60-C4.flac" midi_note="62">
+		<clip start="854.847" end="4256.349" />
+		<loop type="ping-pong" start="1702.540" end="2453.383" />
+	</sample>
+	<sample filename="SopRSax-ff-59-H3.flac" midi_note="61">
+		<clip start="463.497" end="4079.229" />
+		<loop type="ping-pong" start="1185.920" end="2091.971" />
+	</sample>
+	<sample filename="SopRSax-ff-58-Ais3.flac" midi_note="60">
+		<clip start="922.199" end="4296.916" />
+		<loop type="ping-pong" start="1718.766" end="2578.150" />
+	</sample>
+	<sample filename="SopRSax-ff-57-A3.flac" midi_note="59">
+		<clip start="330.648" end="4082.086" />
+		<loop type="ping-pong" start="878.812" end="1654.723" />
+	</sample>
+	<sample filename="SopRSax-ff-56-Gis3.flac" midi_note="58">
+		<clip start="582.690" end="4257.370" />
+		<loop type="ping-pong" start="1446.824" end="2256.085" />
+	</sample>
+	<auto_volume method="from-loop" />
+	<auto_tune method="simple"/>
+</instrument>

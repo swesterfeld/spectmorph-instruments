@@ -14,7 +14,6 @@ die()
 echo "*** dist: checks"
 
 test -f make-dist || die "run make-dist from the directory it lives in"
-test -f sminstbuilder.cfg || die "need sminstbuilder.cfg"
 test -d instruments/standard || die "need dir instruments/standard"
 
 VERSION=$(grep version index.smindex | sed 's/.*"\([0-9.]*\)"$/\1/g')
