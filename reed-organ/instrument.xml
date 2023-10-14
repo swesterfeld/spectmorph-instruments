@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<instrument name="Reed Organ" short_name="rdo">
+	<sample filename="sample427-96.flac" midi_note="96">
+		<clip start="0.000" end="260.737" />
+		<loop type="single-frame" start="155.026" end="155.026" />
+	</sample>
+	<sample filename="sample429-90.flac" midi_note="90">
+		<clip start="0.000" end="235.918" />
+		<loop type="single-frame" start="135.011" end="135.011" />
+	</sample>
+	<sample filename="sample431-84.flac" midi_note="84">
+		<clip start="0.000" end="235.406" />
+		<loop type="single-frame" start="135.031" end="135.031" />
+	</sample>
+	<sample filename="sample433-78.flac" midi_note="78">
+		<clip start="0.000" end="275.465" />
+		<loop type="single-frame" start="175.011" end="175.011" />
+	</sample>
+	<sample filename="sample435-72.flac" midi_note="72">
+		<clip start="0.000" end="279.200" />
+		<loop type="single-frame" start="175.025" end="175.025" />
+	</sample>
+	<sample filename="sample437-66.flac" midi_note="66">
+		<clip start="0.000" end="285.895" />
+		<loop type="single-frame" start="175.026" end="175.026" />
+	</sample>
+	<sample filename="sample439-60.flac" midi_note="60">
+		<clip start="0.000" end="288.000" />
+		<loop type="single-frame" start="185.042" end="185.042" />
+	</sample>
+	<sample filename="sample441-54.flac" midi_note="54">
+		<clip start="0.000" end="331.692" />
+		<loop type="single-frame" start="215.038" end="215.038" />
+	</sample>
+</instrument>
