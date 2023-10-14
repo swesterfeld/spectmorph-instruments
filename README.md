@@ -5,16 +5,16 @@ This repository contains the samples and instrument editor meta data to build th
 standard instrument tarball for SpectMorph. To build a standard instrument tarball
 for SpectMorph, use
 
-  ./make-dist
+    ./make-dist
 
 To build one single instrument, use
 
-  ./build.sh
+    ./build.sh
 
 To edit a sample, create a zip file of the directory, for instance like this
 
-  cd trumpet
-  zip ../tmp/trumpet.sminst *
+    cd trumpet
+    zip ../tmp/trumpet.sminst *
 
 You can then import the sample into SpectMorph in the instrument editor. Finally
 when done editing, replace the contents of the directory with the new contents
@@ -43,6 +43,8 @@ Origin of the Samples / Copyrights:
 * synth-saw: CC0
 * trumpet: IMIS
 * violin: IMIS
+
+Licenses:
 
 * CC0: samples were sampled for this project and released as public domain (CC0)
 * IMIS: The Iowa Musical Instruments Samples are in the Public Domain and may be used in any way that you wish without any restriction whatsoever.
