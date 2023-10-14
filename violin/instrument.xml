@@ -1,4 +1,4 @@
-<instrument name="Violin">
+<instrument name="Violin" short_name="vl">
   <sample filename="g-note-56.flac" midi_note="56">
     <clip end="6251.973" start="43.810"/>
     <loop end="2768.821" start="2148.821" type="ping-pong"/>
