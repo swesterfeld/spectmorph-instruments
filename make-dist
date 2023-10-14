@@ -1,0 +1,58 @@
+#!/bin/bash
+
+set -e
+
+# common shell functions
+
+die()
+{
+  echo "$0: $@"
+  exit 1
+}
+
+#----- checks
+echo "*** dist: checks"
+
+test -f make-dist || die "run make-dist from the directory it lives in"
+test -f sminstbuilder.cfg || die "need sminstbuilder.cfg"
+test -d instruments/standard || die "need dir instruments/standard"
+
+VERSION=$(grep version index.smindex | sed 's/.*"\([0-9.]*\)"$/\1/g')
+
+#----- clean
+echo "*** dist: clean old stuff"
+
+rm -f instruments/standard/*.smset
+rm -f instruments/standard/*.smindex
+rm -f spectmorph-instruments-$VERSION.tar
+rm -f spectmorph-instruments-$VERSION.tar.xz
+
+#----- build
+INSTS=$(cat index.smindex | while read cmd arg1 arg2
+do
+  if [ "_$cmd" == "_smset" ]; then
+    echo $arg1 | sed 's/"//g;s/[.]smset//g'
+  fi
+done)
+
+for i in $INSTS
+do
+  if [ -d "$i" ]; then
+    echo build.sh $i
+  else
+    die "instrument data for $i missing"
+  fi
+done | parallel
+
+cp index.smindex instruments/standard
+
+#----- tar
+echo "*** dist: create tarball: spectmorph-instruments-$VERSION.tar"
+tar cvf spectmorph-instruments-$VERSION.tar instruments
+
+#----- xz
+echo "*** dist: compress tarball => spectmorph-instruments-$VERSION.tar.xz"
+xz -9 spectmorph-instruments-$VERSION.tar
+
+#----- download size
+ls -hl spectmorph-instruments-$VERSION.tar.xz
