@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<instrument name="Pan Flute" short_name="pan">
+	<sample filename="sample407-96.flac" midi_note="96">
+		<clip start="0.000" end="575.646" />
+		<loop type="forward" start="276.803" end="471.361" />
+	</sample>
+	<sample filename="sample409-90.flac" midi_note="90">
+		<clip start="0.000" end="607.166" />
+		<loop type="forward" start="301.746" end="501.293" />
+	</sample>
+	<sample filename="sample411-84.flac" midi_note="84">
+		<clip start="0.000" end="725.306" />
+		<loop type="forward" start="421.474" end="616.032" />
+	</sample>
+	<sample filename="sample413-78.flac" midi_note="78">
+		<clip start="0.000" end="787.959" />
+		<loop type="forward" start="471.361" end="680.884" />
+	</sample>
+	<sample filename="sample415-72.flac" midi_note="72">
+		<clip start="0.000" end="983.300" />
+		<loop type="forward" start="477.533" end="877.533" />
+	</sample>
+	<sample filename="sample417-66.flac" midi_note="66">
+		<clip start="0.000" end="687.536" />
+		<loop type="forward" start="377.536" end="577.536" />
+	</sample>
+	<sample filename="sample419-60.flac" midi_note="60">
+		<clip start="0.000" end="1098.250" />
+		<loop type="forward" start="582.542" end="982.542" />
+	</sample>
+	<sample filename="sample421-54.flac" midi_note="54">
+		<clip start="0.000" end="1387.556" />
+		<loop type="forward" start="887.556" end="1277.556" />
+	</sample>
+	<auto_volume method="from-loop"/>
+	<encoder_config param="steps-per-frame" value="8" />
+</instrument>
