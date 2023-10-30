@@ -15,6 +15,7 @@ smset "clarinet.smset" "Clarinet"
 group "Brass"
 smset "trumpet.smset" "Trumpet"
 smset "french-horn.smset" "French Horn"
+smset "tenor-trombone.smset" "Tenor Trombone"
 smset "bass-trombone.smset" "Bass Trombone"
 
 group "Voices"

@@ -46,6 +46,7 @@ Origin of the Samples / Copyrights:
 * sven-ih: CC0
 * sven-oh: CC0
 * synth-saw: CC0
+* tenor-trombone: IMIS
 * trumpet: IMIS
 * viola: IMIS
 * violin: IMIS

@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<instrument name="Tenor trombone mf" short_name="tbn" global_volume="22.017">
+	<sample filename="TenPos_mf-72-C5.flac" midi_note="72" volume="-3.109">
+		<clip start="70.330" end="2307.506" />
+		<loop type="ping-pong" start="787.989" end="1225.038" />
+	</sample>
+	<sample filename="TenPos_mf-71-H4.flac" midi_note="71" volume="-3.937">
+		<clip start="683.460" end="4832.313" />
+		<loop type="ping-pong" start="1685.161" end="1983.814" />
+	</sample>
+	<sample filename="TenPos_mf-70-Ais4.flac" midi_note="70" volume="-3.346">
+		<clip start="941.978" end="4303.810" />
+		<loop type="ping-pong" start="1721.524" end="2402.162" />
+	</sample>
+	<sample filename="TenPos_mf-69-A4.flac" midi_note="69" volume="-4.043">
+		<clip start="1185.195" end="4603.220" />
+		<loop type="ping-pong" start="1841.288" end="2448.379" />
+	</sample>
+	<sample filename="TenPos_mf-68-Gis4.flac" midi_note="68" volume="-4.698">
+		<clip start="1018.404" end="4266.395" />
+		<loop type="ping-pong" start="1706.558" end="2410.353" />
+	</sample>
+	<sample filename="TenPos_mf-67-G4.flac" midi_note="67" volume="-4.783">
+		<clip start="1276.986" end="4528.345" />
+		<loop type="ping-pong" start="2167.498" end="2717.007" />
+	</sample>
+	<sample filename="TenPos_mf-66-Fis4.flac" midi_note="66" volume="-4.604">
+		<clip start="1020.335" end="4004.422" />
+		<loop type="ping-pong" start="1766.999" end="2460.984" />
+	</sample>
+	<sample filename="TenPos_mf-65-F4.flac" midi_note="65" volume="-4.659">
+		<clip start="795.812" end="4154.104" />
+		<loop type="ping-pong" start="1843.483" end="2281.862" />
+	</sample>
+	<sample filename="TenPos_mf-64-E4.flac" midi_note="64" volume="-3.040">
+		<clip start="1110.483" end="4640.635" />
+		<loop type="ping-pong" start="1743.126" end="2588.469" />
+	</sample>
+	<sample filename="TenPos_mf-63-Dis4.flac" midi_note="63" volume="-1.831">
+		<clip start="1135.040" end="4341.224" />
+		<loop type="ping-pong" start="1736.490" end="2604.735" />
+	</sample>
+	<sample filename="TenPos_mf-62-D4.flac" midi_note="62" volume="-3.333">
+		<clip start="1123.869" end="4341.247" />
+		<loop type="ping-pong" start="2070.032" end="2604.748" />
+	</sample>
+	<sample filename="TenPos_mf-61-Cis4.flac" midi_note="61" volume="-3.441">
+		<clip start="804.916" end="3892.154" />
+		<loop type="ping-pong" start="1449.686" end="2104.051" />
+	</sample>
+	<sample filename="TenPos_mf-60-C4.flac" midi_note="60" volume="-3.277">
+		<clip start="2043.337" end="5570.635" />
+		<loop type="ping-pong" start="2775.913" end="3427.630" />
+	</sample>
+	<sample filename="TenPos_mf-59-H3.flac" midi_note="59" volume="-2.822">
+		<clip start="903.669" end="5214.150" />
+		<loop type="ping-pong" start="1528.985" end="2440.589" />
+	</sample>
+	<sample filename="TenPos_mf-58-Ais3.flac" midi_note="58" volume="-2.199">
+		<clip start="911.599" end="4156.825" />
+		<loop type="ping-pong" start="1559.409" end="2108.438" />
+	</sample>
+	<sample filename="TenPos_mf-57-A3.flac" midi_note="57" volume="-1.775">
+		<clip start="935.307" end="4032.744" />
+		<loop type="ping-pong" start="1613.098" end="2014.099" />
+	</sample>
+	<sample filename="TenPos_mf-56-Gis3.flac" midi_note="56" volume="-0.940">
+		<clip start="745.238" end="3908.662" />
+		<loop type="ping-pong" start="1179.956" end="1835.181" />
+	</sample>
+	<sample filename="TenPos_mf-55-G3.flac" midi_note="55" volume="-0.702">
+		<clip start="847.676" end="4405.011" />
+		<loop type="ping-pong" start="1393.131" end="2111.105" />
+	</sample>
+	<sample filename="TenPos_mf-54-Fis3.flac" midi_note="54" volume="1.528">
+		<clip start="948.272" end="4280.907" />
+		<loop type="ping-pong" start="1520.434" end="2228.850" />
+	</sample>
+	<sample filename="TenPos_mf-53-F3.flac" midi_note="53" volume="-0.071">
+		<clip start="971.818" end="4342.948" />
+		<loop type="ping-pong" start="1737.179" end="2333.057" />
+	</sample>
+	<sample filename="TenPos_mf-52-E3.flac" midi_note="52" volume="1.450">
+		<clip start="1136.184" end="4467.052" />
+		<loop type="ping-pong" start="1786.821" end="2271.779" />
+	</sample>
+	<sample filename="TenPos_mf-51-Dis3.flac" midi_note="51" volume="2.690">
+		<clip start="873.241" end="3970.703" />
+		<loop type="ping-pong" start="1588.281" end="2152.831" />
+	</sample>
+	<sample filename="TenPos_mf-50-D3.flac" midi_note="50" volume="2.553">
+		<clip start="603.045" end="3908.639" />
+		<loop type="ping-pong" start="1563.456" end="2113.575" />
+	</sample>
+	<sample filename="TenPos_mf-49-Cis3-2.flac" midi_note="49" volume="3.706">
+		<clip start="1023.708" end="4653.152" />
+		<loop type="ping-pong" start="1635.374" end="2409.475" />
+	</sample>
+	<sample filename="TenPos_mf-48-C3.flac" midi_note="48" volume="3.004">
+		<clip start="2092.209" end="5397.664" />
+		<loop type="ping-pong" start="2697.906" end="3448.369" />
+	</sample>
+	<sample filename="TenPos_mf-47-H2.flac" midi_note="47" volume="3.597">
+		<clip start="874.200" end="3318.957" />
+		<loop type="ping-pong" start="1637.305" end="2173.386" />
+	</sample>
+	<sample filename="TenPos_mf-46-Ais2.flac" midi_note="46" volume="3.023">
+		<clip start="1079.282" end="4191.542" />
+		<loop type="ping-pong" start="1814.894" end="2514.925" />
+	</sample>
+	<sample filename="TenPos_mf-45-A2.flac" midi_note="45" volume="3.119">
+		<clip start="654.330" end="3592.766" />
+		<loop type="ping-pong" start="1249.588" end="1880.313" />
+	</sample>
+	<sample filename="TenPos_mf-44-Gis2.flac" midi_note="44" volume="4.000">
+		<clip start="783.508" end="4004.444" />
+		<loop type="ping-pong" start="1400.086" end="2118.492" />
+	</sample>
+	<sample filename="TenPos_mf-43-G2.flac" midi_note="43" volume="-0.548">
+		<clip start="643.376" end="3892.154" />
+		<loop type="ping-pong" start="1356.036" end="1807.663" />
+	</sample>
+	<sample filename="TenPos_mf-42-Fis2.flac" midi_note="42" volume="2.432">
+		<clip start="1094.944" end="4453.537" />
+		<loop type="ping-pong" start="1623.859" end="2443.951" />
+	</sample>
+	<sample filename="TenPos_mf-41-F2.flac" midi_note="41" volume="4.936">
+		<clip start="802.899" end="3817.302" />
+		<loop type="ping-pong" start="1706.331" end="2009.419" />
+	</sample>
+	<sample filename="TenPos_mf-40-E2.flac" midi_note="40" volume="11.080">
+		<clip start="185.820" end="3339.138" />
+		<loop type="ping-pong" start="694.410" end="1412.091" />
+	</sample>
+	<auto_tune method="smooth" partials="3" time="100.0" amount="25.0" />
+</instrument>
