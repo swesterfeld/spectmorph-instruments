@@ -30,6 +30,7 @@ Origin of the Samples / Copyrights:
 * bass-flute: IMIS
 * bass-trombone: IMIS
 * cello: IMIS
+* clarinet: IMIS
 * claudia-ah: CC0
 * claudia-ih: CC0
 * claudia-oh: CC0

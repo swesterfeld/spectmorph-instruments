@@ -10,6 +10,7 @@ smset "soprano-saxophone.smset" "Soprano Saxophone"
 smset "alto-saxophone.smset" "Alto Saxophone"
 smset "bassoon.smset" "Bassoon"
 smset "bass-clarinet.smset" "Bass Clarinet"
+smset "clarinet.smset" "Clarinet"
 
 group "Brass"
 smset "trumpet.smset" "Trumpet"

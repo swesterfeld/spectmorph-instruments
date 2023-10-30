@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<instrument name="Clarinet in Bb" short_name="cl" global_volume="6.046">
+	<sample filename="Cl_ff-88-E6.flac" midi_note="88" volume="-10.029">
+		<clip start="608.741" end="4045.329" />
+		<loop type="ping-pong" start="1618.132" end="2234.857" />
+	</sample>
+	<sample filename="Cl_ff-87-Dis6.flac" midi_note="87" volume="-7.159">
+		<clip start="695.582" end="3820.590" />
+		<loop type="ping-pong" start="1620.947" end="2292.354" />
+	</sample>
+	<sample filename="Cl_ff-86-D6.flac" midi_note="86" volume="-4.319">
+		<clip start="679.644" end="4120.249" />
+		<loop type="ping-pong" start="1396.107" end="2306.312" />
+	</sample>
+	<sample filename="Cl_ff-85-Cis6.flac" midi_note="85" volume="-4.876">
+		<clip start="457.868" end="3820.567" />
+		<loop type="ping-pong" start="1008.014" end="1665.000" />
+	</sample>
+	<sample filename="Cl_ff-84-C6.flac" midi_note="84" volume="-3.863">
+		<clip start="834.455" end="4270.045" />
+		<loop type="ping-pong" start="1406.403" end="2163.824" />
+	</sample>
+	<sample filename="Cl_ff-83-H5.flac" midi_note="83" volume="-6.640">
+		<clip start="611.991" end="3446.009" />
+		<loop type="ping-pong" start="1185.905" end="1895.132" />
+	</sample>
+	<sample filename="Cl_ff-82-Ais5.flac" midi_note="82" volume="-8.299">
+		<clip start="615.031" end="4419.887" />
+		<loop type="ping-pong" start="1122.230" end="1715.859" />
+	</sample>
+	<sample filename="Cl_ff-81-A5.flac" midi_note="81" volume="-7.786">
+		<clip start="575.644" end="3895.488" />
+		<loop type="ping-pong" start="1118.581" end="2041.661" />
+	</sample>
+	<sample filename="Cl_ff-80-Gis5.flac" midi_note="80" volume="-8.463">
+		<clip start="522.932" end="3895.488" />
+		<loop type="ping-pong" start="1090.355" end="1732.365" />
+	</sample>
+	<sample filename="Cl_ff-79-G5.flac" midi_note="79" volume="-6.169">
+		<clip start="941.353" end="4270.068" />
+		<loop type="ping-pong" start="1279.102" end="2149.341" />
+	</sample>
+	<sample filename="Cl_ff-78-Fis5.flac" midi_note="78" volume="-4.729">
+		<clip start="826.016" end="3970.408" />
+		<loop type="ping-pong" start="1588.163" end="2382.245" />
+	</sample>
+	<sample filename="Cl_ff-77-F5.flac" midi_note="77" volume="-7.018">
+		<clip start="977.435" end="3895.488" />
+		<loop type="ping-pong" start="1740.409" end="2337.293" />
+	</sample>
+	<sample filename="Cl_ff-76-E5.flac" midi_note="76" volume="-5.006">
+		<clip start="614.575" end="4045.329" />
+		<loop type="ping-pong" start="1183.801" end="2083.209" />
+	</sample>
+	<sample filename="Cl_ff-75-Dis5.flac" midi_note="75" volume="-5.253">
+		<clip start="378.509" end="4045.306" />
+		<loop type="ping-pong" start="1045.226" end="1948.941" />
+	</sample>
+	<sample filename="Cl_ff-74-D5.flac" midi_note="74" volume="-3.758">
+		<clip start="986.828" end="4344.966" />
+		<loop type="ping-pong" start="1737.986" end="2606.980" />
+	</sample>
+	<sample filename="Cl_ff-73-Cis5.flac" midi_note="73" volume="-0.644">
+		<clip start="571.327" end="3970.408" />
+		<loop type="ping-pong" start="1588.163" end="2263.437" />
+	</sample>
+	<sample filename="Cl_ff-72-C5.flac" midi_note="72" volume="0.338">
+		<clip start="574.714" end="3520.930" />
+		<loop type="ping-pong" start="1511.087" end="2093.049" />
+	</sample>
+	<sample filename="Cl_ff-71-H4.flac" midi_note="71" volume="2.165">
+		<clip start="744.522" end="3820.567" />
+		<loop type="ping-pong" start="1572.668" end="2143.880" />
+	</sample>
+	<sample filename="Cl_ff-70-Ais4.flac" midi_note="70" volume="3.716">
+		<clip start="1364.557" end="4644.603" />
+		<loop type="ping-pong" start="2484.096" end="2977.822" />
+	</sample>
+	<sample filename="Cl_ff-69-A4.flac" midi_note="69" volume="6.751">
+		<clip start="482.499" end="3446.009" />
+		<loop type="ping-pong" start="1378.404" end="2067.605" />
+	</sample>
+	<sample filename="Cl_ff-68-Gis4.flac" midi_note="68" volume="5.279">
+		<clip start="821.533" end="4045.329" />
+		<loop type="ping-pong" start="1618.132" end="2427.197" />
+	</sample>
+	<sample filename="Cl_ff-67-G4.flac" midi_note="67" volume="-0.484">
+		<clip start="1002.581" end="4270.068" />
+		<loop type="ping-pong" start="1708.027" end="2562.041" />
+	</sample>
+	<sample filename="Cl_ff-66-Fis4.flac" midi_note="66" volume="4.544">
+		<clip start="885.292" end="3895.488" />
+		<loop type="ping-pong" start="1558.195" end="2154.779" />
+	</sample>
+	<sample filename="Cl_ff-65-F4.flac" midi_note="65" volume="4.682">
+		<clip start="761.939" end="3820.590" />
+		<loop type="ping-pong" start="1199.213" end="2139.985" />
+	</sample>
+	<sample filename="Cl_ff-64-E4.flac" midi_note="64" volume="0.614">
+		<clip start="604.684" end="3595.850" />
+		<loop type="ping-pong" start="1584.923" end="2153.961" />
+	</sample>
+	<sample filename="Cl_ff-63-Dis4.flac" midi_note="63" volume="0.687">
+		<clip start="802.749" end="4344.966" />
+		<loop type="ping-pong" start="1737.986" end="2382.361" />
+	</sample>
+	<sample filename="Cl_ff-62-D4.flac" midi_note="62" volume="2.507">
+		<clip start="660.894" end="3670.748" />
+		<loop type="ping-pong" start="1163.833" end="1696.405" />
+	</sample>
+	<sample filename="Cl_ff-61-Cis4.flac" midi_note="61" volume="4.056">
+		<clip start="898.973" end="3820.567" />
+		<loop type="ping-pong" start="1429.580" end="2234.135" />
+	</sample>
+	<sample filename="Cl_ff-60-C4.flac" midi_note="60" volume="5.112">
+		<clip start="115.825" end="2872.834" />
+		<loop type="ping-pong" start="469.470" end="1658.573" />
+	</sample>
+	<sample filename="Cl_ff-59-H3.flac" midi_note="59" volume="5.067">
+		<clip start="405.555" end="2895.420" />
+		<loop type="ping-pong" start="1158.168" end="1640.910" />
+	</sample>
+	<sample filename="Cl_ff-58-Ais3.flac" midi_note="58" volume="4.018">
+		<clip start="353.358" end="2874.444" />
+		<loop type="ping-pong" start="1149.778" end="1724.667" />
+	</sample>
+	<sample filename="Cl_ff-57-A3.flac" midi_note="57" volume="3.934">
+		<clip start="425.867" end="2874.444" />
+		<loop type="ping-pong" start="1149.778" end="1724.667" />
+	</sample>
+	<sample filename="Cl_ff-56-Gis3.flac" midi_note="56" volume="2.946">
+		<clip start="367.721" end="2811.497" />
+		<loop type="ping-pong" start="891.203" end="1286.319" />
+	</sample>
+	<sample filename="Cl_ff-55-G3.flac" midi_note="55" volume="5.620">
+		<clip start="337.858" end="2790.522" />
+		<loop type="ping-pong" start="555.233" end="1279.066" />
+	</sample>
+	<sample filename="Cl_ff-54-Fis3.flac" midi_note="54" volume="5.997">
+		<clip start="385.234" end="2748.571" />
+		<loop type="ping-pong" start="1099.429" end="1649.143" />
+	</sample>
+	<sample filename="Cl_ff-53-F3.flac" midi_note="53" volume="6.553">
+		<clip start="348.290" end="3105.238" />
+		<loop type="ping-pong" start="1242.095" end="1863.143" />
+	</sample>
+	<sample filename="Cl_ff-52-E3.flac" midi_note="52" volume="6.665">
+		<clip start="306.172" end="2958.367" />
+		<loop type="ping-pong" start="602.785" end="916.741" />
+	</sample>
+	<sample filename="Cl_ff-51-Dis3.flac" midi_note="51" volume="7.065">
+		<clip start="331.283" end="2916.417" />
+		<loop type="ping-pong" start="1166.567" end="1749.850" />
+	</sample>
+	<sample filename="Cl_ff-50-D3.flac" midi_note="50" volume="4.597">
+		<clip start="323.817" end="2916.395" />
+		<loop type="ping-pong" start="1166.558" end="1749.837" />
+	</sample>
+	<auto_tune method="smooth" partials="3" time="100.0" amount="50.0" />
+</instrument>
