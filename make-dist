@@ -14,9 +14,13 @@ die()
 echo "*** dist: checks"
 
 test -f make-dist || die "run make-dist from the directory it lives in"
-test -d instruments/standard || die "need dir instruments/standard"
 
 VERSION=$(grep version index.smindex | sed 's/.*"\([0-9.]*\)"$/\1/g')
+
+#----- create dirs
+echo "*** dist: create dirs"
+mkdir -p instruments/standard || die "need dir instruments/standard"
+mkdir -p tmp || die "need dir tmp"
 
 #----- clean
 echo "*** dist: clean old stuff"
@@ -27,6 +31,7 @@ rm -f spectmorph-instruments-$VERSION.tar
 rm -f spectmorph-instruments-$VERSION.tar.xz
 
 #----- build
+echo "*** dist: building instruments"
 INSTS=$(cat index.smindex | while read cmd arg1 arg2
 do
   if [ "_$cmd" == "_smset" ]; then
@@ -41,7 +46,7 @@ do
   else
     die "instrument data for $i missing"
   fi
-done | parallel
+done | parallel || die "errors during building instruments"
 
 cp index.smindex instruments/standard
 
