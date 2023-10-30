@@ -7,9 +7,9 @@ for SpectMorph, use
 
     ./make-dist
 
-To build one single instrument, use
+To build one single instrument, use the build script with the instrument name
 
-    ./build.sh
+    ./build.sh trumpet
 
 To edit a sample, create a zip file of the directory, for instance like this
 
@@ -31,6 +31,7 @@ Origin of the Samples / Copyrights:
 * claudia-ah: CC0
 * claudia-ih: CC0
 * claudia-oh: CC0
+* double-bass: IMIS
 * french-horn: IMIS
 * mirko-ah: CC0
 * mirko-oh: CC0

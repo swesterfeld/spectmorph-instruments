@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<instrument name="Double Bass" short_name="db" global_volume="20.113">
+	<sample filename="Kb-ff-67-G4-arco.flac" midi_note="67" volume="2.317">
+		<clip start="1434.692" end="5217.664" />
+		<loop type="ping-pong" start="2087.066" end="2753.028" />
+	</sample>
+	<sample filename="Kb-ff-66-Fis4-arco.flac" midi_note="66" volume="3.029">
+		<clip start="1343.517" end="4712.018" />
+		<loop type="ping-pong" start="2105.899" end="2827.211" />
+	</sample>
+	<sample filename="Kb-ff-65-F4-arco.flac" midi_note="65" volume="0.631">
+		<clip start="1698.690" end="5403.311" />
+		<loop type="ping-pong" start="2161.324" end="3241.986" />
+	</sample>
+	<sample filename="Kb-ff-64-E4-arco.flac" midi_note="64" volume="3.748">
+		<clip start="1586.200" end="5530.249" />
+		<loop type="ping-pong" start="2012.399" end="2855.653" />
+	</sample>
+	<sample filename="Kb-ff-63-Dis4-arco.flac" midi_note="63" volume="2.555">
+		<clip start="1669.527" end="5092.925" />
+		<loop type="ping-pong" start="2037.170" end="3055.755" />
+	</sample>
+	<sample filename="Kb-ff-62-D4-arco.flac" midi_note="62" volume="0.648">
+		<clip start="2008.066" end="5798.322" />
+		<loop type="ping-pong" start="2677.963" end="3340.957" />
+	</sample>
+	<sample filename="Kb-ff-61-Cis4-arco.flac" midi_note="61" volume="3.509">
+		<clip start="1327.910" end="4951.837" />
+		<loop type="ping-pong" start="1896.929" end="2446.640" />
+	</sample>
+	<sample filename="Kb-ff-60-C4-arco.flac" midi_note="60" volume="-1.025">
+		<clip start="2129.832" end="5237.642" />
+		<loop type="ping-pong" start="2578.124" end="3291.642" />
+	</sample>
+	<sample filename="Kb-ff-59-H3-arco.flac" midi_note="59" volume="1.240">
+		<clip start="1048.144" end="4680.680" />
+		<loop type="ping-pong" start="1639.198" end="2265.653" />
+	</sample>
+	<sample filename="Kb-ff-58-Ais3-arco.flac" midi_note="58" volume="2.909">
+		<clip start="1316.817" end="4838.980" />
+		<loop type="ping-pong" start="1935.592" end="2903.388" />
+	</sample>
+	<sample filename="Kb-ff-57-A3-arco.flac" midi_note="57" volume="-1.741">
+		<clip start="759.493" end="3936.100" />
+		<loop type="ping-pong" start="1434.326" end="2235.271" />
+	</sample>
+	<sample filename="Kb-ff-56-Gis3-arco.flac" midi_note="56" volume="-2.337">
+		<clip start="1253.296" end="4570.930" />
+		<loop type="ping-pong" start="1712.555" end="2357.638" />
+	</sample>
+	<sample filename="Kb-ff-55-G3-arco.flac" midi_note="55" volume="-4.841">
+		<clip start="621.171" end="3809.116" />
+		<loop type="ping-pong" start="1062.283" end="1831.896" />
+	</sample>
+	<sample filename="Kb-ff-54-Fis3-arco.flac" midi_note="54" volume="-0.906">
+		<clip start="1599.956" end="4923.605" />
+		<loop type="ping-pong" start="2058.878" end="2653.479" />
+	</sample>
+	<sample filename="Kb-ff-53-F3-arco.flac" midi_note="53" volume="-0.783">
+		<clip start="1766.488" end="4782.562" />
+		<loop type="ping-pong" start="2448.560" end="2970.390" />
+	</sample>
+	<sample filename="Kb-ff-52-E3-arco.flac" midi_note="52" volume="-0.119">
+		<clip start="1646.500" end="4881.293" />
+		<loop type="ping-pong" start="1952.517" end="2440.306" />
+	</sample>
+	<sample filename="Kb-ff-51-Dis3-arco.flac" midi_note="51" volume="-2.059">
+		<clip start="1980.155" end="5107.029" />
+		<loop type="ping-pong" start="2514.873" end="3253.827" />
+	</sample>
+	<sample filename="Kb-ff-50-D3-arco.flac" midi_note="50" volume="-1.841">
+		<clip start="1087.408" end="4133.583" />
+		<loop type="ping-pong" start="1755.845" end="2239.180" />
+	</sample>
+	<sample filename="Kb-ff-49-Cis3-arco.flac" midi_note="49" volume="-0.068">
+		<clip start="2312.297" end="5219.887" />
+		<loop type="ping-pong" start="2845.228" end="3514.475" />
+	</sample>
+	<sample filename="Kb-ff-48-C3-arco.flac" midi_note="48" volume="-2.461">
+		<clip start="524.891" end="3809.116" />
+		<loop type="ping-pong" start="1443.581" end="1870.199" />
+	</sample>
+	<sample filename="Kb_sulA-ff-47-H2-arco.flac" midi_note="47" volume="2.194">
+		<clip start="1016.352" end="4794.444" />
+		<loop type="ping-pong" start="1917.778" end="2876.667" />
+	</sample>
+	<sample filename="Kb_sulA-ff-46-Ais2-arco.flac" midi_note="46" volume="-0.548">
+		<clip start="643.510" end="3745.646" />
+		<loop type="ping-pong" start="1402.163" end="1899.746" />
+	</sample>
+	<sample filename="Kb_sulA-ff-44-Gis2-arco.flac" midi_note="44" volume="-2.218">
+		<clip start="772.440" end="4419.887" />
+		<loop type="ping-pong" start="1361.133" end="2323.899" />
+	</sample>
+	<sample filename="Kb_sulA-ff-43-G2-arco.flac" midi_note="43" volume="0.644">
+		<clip start="708.905" end="4419.864" />
+		<loop type="ping-pong" start="1509.961" end="2069.137" />
+	</sample>
+	<sample filename="Kb_sulA-ff-41-F2-arco.flac" midi_note="41" volume="0.290">
+		<clip start="1292.287" end="5843.243" />
+		<loop type="ping-pong" start="1809.609" end="2819.407" />
+	</sample>
+	<sample filename="Kb_sulA-ff-40-E2-arco.flac" midi_note="40" volume="1.244">
+		<clip start="770.036" end="4644.626" />
+		<loop type="ping-pong" start="1413.980" end="2035.482" />
+	</sample>
+	<sample filename="Kb_sulA-ff-39-Dis2-arco.flac" midi_note="39" volume="0.648">
+		<clip start="782.399" end="4569.705" />
+		<loop type="ping-pong" start="1134.930" end="1925.878" />
+	</sample>
+	<sample filename="Kb_sulA-ff-38-D2-arco.flac" midi_note="38" volume="-2.453">
+		<clip start="747.157" end="4644.626" />
+		<loop type="ping-pong" start="1072.651" end="2035.063" />
+	</sample>
+	<sample filename="Kb_sulA-ff-37-Cis2-arco.flac" midi_note="37" volume="-2.468">
+		<clip start="461.963" end="5019.206" />
+		<loop type="ping-pong" start="919.174" end="1879.209" />
+	</sample>
+	<sample filename="Kb_sulA-ff-36-C2-arco.flac" midi_note="36" volume="-2.244">
+		<clip start="676.834" end="4344.966" />
+		<loop type="ping-pong" start="1163.176" end="2033.410" />
+	</sample>
+	<sample filename="Kb_sulE-ff-35-H1-arco.flac" midi_note="35" volume="-0.187">
+		<clip start="346.575" end="3175.828" />
+		<loop type="ping-pong" start="749.022" end="1299.382" />
+	</sample>
+	<sample filename="Kb_sulE-ff-34-Ais1-arco.flac" midi_note="34" volume="0.420">
+		<clip start="292.035" end="3514.580" />
+		<loop type="ping-pong" start="951.817" end="1671.923" />
+	</sample>
+	<sample filename="Kb_sulE-ff-33-A1-arco.flac" midi_note="33" volume="-1.260">
+		<clip start="389.781" end="3472.245" />
+		<loop type="ping-pong" start="742.025" end="1581.128" />
+	</sample>
+	<sample filename="Kb_sulE-ff-32-Gis1-arco.flac" midi_note="32" volume="-1.502">
+		<clip start="369.268" end="3683.946" />
+		<loop type="ping-pong" start="807.896" end="1330.804" />
+	</sample>
+	<sample filename="Kb_sulE-ff-31-G1-arco.flac" midi_note="31" volume="1.840">
+		<clip start="253.645" end="3768.662" />
+		<loop type="ping-pong" start="855.657" end="1790.982" />
+	</sample>
+	<sample filename="Kb_sulE-ff-30-Fis1-arco.flac" midi_note="30" volume="1.717">
+		<clip start="262.662" end="3472.222" />
+		<loop type="ping-pong" start="743.993" end="1480.277" />
+	</sample>
+	<sample filename="Kb_sulE-ff-29-F1-arco.flac" midi_note="29" volume="2.075">
+		<clip start="351.869" end="3768.639" />
+		<loop type="ping-pong" start="839.525" end="1672.897" />
+	</sample>
+	<sample filename="Kb_sulE-ff-28-E1-arco.flac" midi_note="28" volume="9.829">
+		<clip start="749.929" end="4657.891" />
+		<loop type="ping-pong" start="1863.156" end="2794.735" />
+	</sample>
+	<auto_tune method="smooth" partials="3" time="100.0" amount="25.0" />
+</instrument>
