@@ -27,6 +27,7 @@ Origin of the Samples / Copyrights:
 * alto-saxophone: IMIS
 * bassoon: IMIS
 * bass-clarinet: IMIS
+* bass-flute: IMIS
 * bass-trombone: IMIS
 * cello: IMIS
 * claudia-ah: CC0

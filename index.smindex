@@ -3,6 +3,7 @@ smset_dir "."
 
 group "Wind"
 smset "alto-flute.smset" "Alto Flute"
+smset "bass-flute.smset" "Bass Flute"
 smset "oboe.smset" "Oboe"
 smset "pan-flute.smset" "Pan Flute"
 smset "soprano-saxophone.smset" "Soprano Saxophone"

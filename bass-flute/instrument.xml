@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<instrument name="Bass Flute" short_name="bfl" global_volume="10.820">
+	<sample filename="Bassfl_ff-85-Cis6.flac" midi_note="85" volume="-12.742">
+		<clip start="699.876" end="3742.041" />
+		<loop type="ping-pong" start="1496.816" end="2245.224" />
+	</sample>
+	<sample filename="Bassfl_ff-84-C6.flac" midi_note="84" volume="-16.382">
+		<clip start="686.226" end="4190.317" />
+		<loop type="ping-pong" start="1676.127" end="2485.735" />
+	</sample>
+	<sample filename="Bassfl_ff-82-Ais5.flac" midi_note="82" volume="-8.095">
+		<clip start="1212.610" end="4794.422" />
+		<loop type="ping-pong" start="2053.050" end="2980.743" />
+	</sample>
+	<sample filename="Bassfl_ff-80-Gis5.flac" midi_note="80" volume="-11.167">
+		<clip start="725.257" end="5038.209" />
+		<loop type="ping-pong" start="1467.718" end="2542.564" />
+	</sample>
+	<sample filename="Bassfl_ff-79-G5.flac" midi_note="79" volume="-5.617">
+		<clip start="640.111" end="4266.236" />
+		<loop type="ping-pong" start="1370.307" end="2166.341" />
+	</sample>
+	<sample filename="Bassfl_ff-78-Fis5.flac" midi_note="78" volume="-6.771">
+		<clip start="804.047" end="4753.810" />
+		<loop type="ping-pong" start="1739.083" end="2507.909" />
+	</sample>
+	<sample filename="Bassfl_ff-77-F5.flac" midi_note="77" volume="-5.955">
+		<clip start="624.955" end="4306.848" />
+		<loop type="ping-pong" start="1373.141" end="2170.930" />
+	</sample>
+	<sample filename="Bassfl_ff-76-E5.flac" midi_note="76" volume="-7.687">
+		<clip start="859.396" end="4510.000" />
+		<loop type="ping-pong" start="2216.033" end="2798.047" />
+	</sample>
+	<sample filename="Bassfl_ff-75-Dis5.flac" midi_note="75" volume="-7.880">
+		<clip start="678.609" end="4306.848" />
+		<loop type="ping-pong" start="1682.710" end="2463.554" />
+	</sample>
+	<sample filename="Bassfl_ff-74-D5.flac" midi_note="74" volume="-8.058">
+		<clip start="1353.829" end="5160.091" />
+		<loop type="ping-pong" start="2200.354" end="3096.054" />
+	</sample>
+	<sample filename="Bassfl_ff-73-Cis5.flac" midi_note="73" volume="0.687">
+		<clip start="831.516" end="4266.213" />
+		<loop type="ping-pong" start="1820.225" end="2559.728" />
+	</sample>
+	<sample filename="Bassfl_ff-67-G4.flac" midi_note="67" volume="-0.510">
+		<clip start="661.682" end="4388.118" />
+		<loop type="ping-pong" start="1612.920" end="2183.624" />
+	</sample>
+	<sample filename="Bassfl_ff-66-Fis4.flac" midi_note="66" volume="-0.248">
+		<clip start="1080.847" end="4573.560" />
+		<loop type="ping-pong" start="1808.567" end="2611.814" />
+	</sample>
+	<sample filename="Bassfl_ff-64-E4.flac" midi_note="64" volume="2.308">
+		<clip start="896.938" end="4347.506" />
+		<loop type="ping-pong" start="1542.059" end="2041.448" />
+	</sample>
+	<sample filename="Bassfl_ff-63-Dis4.flac" midi_note="63" volume="-1.097">
+		<clip start="675.896" end="4672.540" />
+		<loop type="ping-pong" start="1751.210" end="2518.373" />
+	</sample>
+	<sample filename="Bassfl_ff-61-Cis4.flac" midi_note="61" volume="2.200">
+		<clip start="943.576" end="4956.961" />
+		<loop type="ping-pong" start="2054.586" end="2842.107" />
+	</sample>
+	<sample filename="Bassfl_ff-60-C4.flac" midi_note="60" volume="0.930">
+		<clip start="923.304" end="4683.379" />
+		<loop type="ping-pong" start="2004.765" end="2842.056" />
+	</sample>
+	<sample filename="Bassfl_ff-59-H3.flac" midi_note="59" volume="1.414">
+		<clip start="685.459" end="3970.975" />
+		<loop type="ping-pong" start="1510.089" end="2360.988" />
+	</sample>
+	<sample filename="Bassfl_ff-58-Ais3.flac" midi_note="58" volume="0.576">
+		<clip start="669.512" end="4306.848" />
+		<loop type="ping-pong" start="1871.115" end="2702.828" />
+	</sample>
+	<sample filename="Bassfl_ff-57-A3.flac" midi_note="57" volume="1.217">
+		<clip start="619.938" end="4672.540" />
+		<loop type="ping-pong" start="1967.789" end="2352.973" />
+	</sample>
+	<sample filename="Bassfl_ff-55-G3.flac" midi_note="55" volume="3.907">
+		<clip start="854.340" end="4063.084" />
+		<loop type="ping-pong" start="1625.234" end="3064.143" />
+	</sample>
+	<sample filename="Bassfl_ff-54-Fis3.flac" midi_note="54" volume="5.072">
+		<clip start="843.388" end="4510.023" />
+		<loop type="ping-pong" start="2468.356" end="3061.401" />
+	</sample>
+	<sample filename="Bassfl_ff-53-F3.flac" midi_note="53" volume="6.069">
+		<clip start="782.421" end="4591.270" />
+		<loop type="ping-pong" start="1569.814" end="2359.547" />
+	</sample>
+	<sample filename="Bassfl_ff-52-E3.flac" midi_note="52" volume="8.320">
+		<clip start="808.433" end="4550.635" />
+		<loop type="ping-pong" start="1907.498" end="2614.130" />
+	</sample>
+	<sample filename="Bassfl_ff-51-Dis3.flac" midi_note="51" volume="9.363">
+		<clip start="975.298" end="4713.175" />
+		<loop type="ping-pong" start="2046.130" end="2827.905" />
+	</sample>
+	<sample filename="Bassfl_ff-50-D3.flac" midi_note="50" volume="9.587">
+		<clip start="865.445" end="4510.023" />
+		<loop type="ping-pong" start="1804.009" end="2673.620" />
+	</sample>
+	<sample filename="Bassfl_ff-49-Cis3.flac" midi_note="49" volume="7.323">
+		<clip start="947.116" end="4225.601" />
+		<loop type="ping-pong" start="1612.003" end="2535.361" />
+	</sample>
+	<sample filename="Bassfl_ff-48-C3.flac" midi_note="48" volume="8.580">
+		<clip start="947.900" end="4176.667" />
+		<loop type="ping-pong" start="1668.003" end="2483.660" />
+	</sample>
+	<auto_tune method="smooth" partials="3" time="100.0" amount="25.0" />
+</instrument>
