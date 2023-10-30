@@ -8,6 +8,7 @@ smset "pan-flute.smset" "Pan Flute"
 smset "soprano-saxophone.smset" "Soprano Saxophone"
 smset "alto-saxophone.smset" "Alto Saxophone"
 smset "bassoon.smset" "Bassoon"
+smset "bass-clarinet.smset" "Bass Clarinet"
 
 group "Brass"
 smset "trumpet.smset" "Trumpet"
