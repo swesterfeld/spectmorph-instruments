@@ -15,7 +15,7 @@ echo "*** dist: checks"
 
 test -f make-dist || die "run make-dist from the directory it lives in"
 
-VERSION=$(grep version index.smindex | sed 's/.*"\([0-9.]*\)"$/\1/g')
+VERSION=$(grep version index.smindex | sed 's/.*"\([0-9a-z.-]*\)"$/\1/g')
 
 #----- create dirs
 echo "*** dist: create dirs"
@@ -31,7 +31,7 @@ rm -f spectmorph-instruments-$VERSION.tar
 rm -f spectmorph-instruments-$VERSION.tar.xz
 
 #----- build
-echo "*** dist: building instruments"
+echo "*** dist: building instruments ($VERSION)"
 INSTS=$(cat index.smindex | while read cmd arg1 arg2
 do
   if [ "_$cmd" == "_smset" ]; then
