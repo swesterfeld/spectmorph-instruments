@@ -1,4 +1,4 @@
-<instrument name="Mirko Ah" short_name="mah">
+<instrument name="Tenor Ah" short_name="tah">
   <sample filename="mirko-ah-48.flac" midi_note="48">
     <clip start="0.000" end="1025.238"/>
     <loop type="ping-pong" start="455.011" end="595.011"/>

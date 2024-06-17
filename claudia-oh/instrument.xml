@@ -1,4 +1,4 @@
-<instrument name="Claudia Oh" short_name="coh">
+<instrument name="Soprano Oh" short_name="soh">
   <sample filename="claudia-oh-2-52.flac" midi_note="52">
     <clip start="0.000" end="1001.882"/>
     <loop type="ping-pong" start="487.347" end="656.871"/>

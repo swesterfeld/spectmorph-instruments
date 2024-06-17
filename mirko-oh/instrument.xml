@@ -1,4 +1,4 @@
-<instrument name="Mirko Oh" short_name="moh">
+<instrument name="Tenor Oh" short_name="toh">
   <sample filename="mirko-oh-48.flac" midi_note="48">
     <clip start="0.000" end="930.907"/>
     <loop type="ping-pong" start="445.011" end="555.011"/>

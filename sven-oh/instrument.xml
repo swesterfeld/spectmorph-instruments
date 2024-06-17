@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<instrument name="Sven Oh" short_name="soh">
+<instrument name="Bass Oh" short_name="boh">
 	<sample filename="Sven-o-59.flac" midi_note="59">
 		<clip start="737.572" end="3971.338" />
 		<loop type="ping-pong" start="1091.921" end="1797.339" />
