@@ -42,7 +42,7 @@ done)
 for i in $INSTS
 do
   if [ -d "$i" ]; then
-    echo build.sh $i
+    echo ./build.sh $i
   else
     die "instrument data for $i missing"
   fi
