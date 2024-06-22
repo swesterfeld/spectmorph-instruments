@@ -7,6 +7,7 @@ export CC="ccache gcc" CXX="ccache g++"
 cd spectmorph
 ./autogen.sh --without-ao
 make -j$(nproc)
+make -j$(nproc) check
 make install
 cd ..
 ./make-dist
