@@ -12,6 +12,7 @@ docker run -v $PWD/output:/output -t spectmorph-instruments misc/build-docker.sh
 
 echo "*** used SpectMorph version $GIT_VERSION"
 echo
-echo "next steps:"
-echo " - git tag -a $(git log -1 --format=%cd --date=format:'%Y-%m-%d')"
-echo " - make a release on github"
+echo "### next steps before making a release on github:"
+echo "  git tag -a $(git log -1 --format=%cd --date=format:'%Y-%m-%d')"
+echo "  git push --tags"
+echo "  git push gh-origin --tags"
