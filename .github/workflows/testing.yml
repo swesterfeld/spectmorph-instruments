@@ -1,0 +1,19 @@
+# This Source Code Form is licensed MPL-2.0: http://mozilla.org/MPL/2.0
+
+# https://rhysd.github.io/actionlint/
+
+name: Testing
+on: [push]
+jobs:
+  linux:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/cache@v4
+      with: { path: "ccache", key: "${{ github.job }}-${{hashFiles ('misc/*')}}" }
+    - name: Test Instrument Build
+      run: misc/make-dist-docker.sh
+    - uses: actions/upload-artifact@v4
+      with:
+        name: spectmorph-instruments
+        path: output/spectmorph-instruments-*.tar.xz
