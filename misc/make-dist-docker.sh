@@ -3,7 +3,8 @@ set -Eeuo pipefail
 
 git clone https://github.com/swesterfeld/spectmorph.git || echo clone fail
 cd spectmorph
-git checkout ae2117f726d4da3a90f1fdb6187e929627b2c27e
+git fetch
+git checkout 8b8fb8adb79e8eec1a16cc90f042db7e548f1c11
 GIT_VERSION=$(git log -1 --format=%cd --date=format:'%Y-%m-%d %H:%M:%S')
 cd ..
 
