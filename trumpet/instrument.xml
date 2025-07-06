@@ -132,6 +132,6 @@
 		<clip start="0.000" end="3911.474" />
 		<loop type="ping-pong" start="1383.177" end="2353.721" />
 	</sample>
-	<auto_tune method="smooth" partials="3" time="100.0" amount="30.0" />
+	<auto_tune method="smooth" partials="3" time="100.0" amount="50.0" />
 	<auto_volume method="from-loop" />
 </instrument>
