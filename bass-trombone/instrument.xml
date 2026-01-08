@@ -128,10 +128,6 @@
 		<clip start="43.900" end="2565.805" />
 		<loop type="ping-pong" start="901.315" end="1626.051" />
 	</sample>
-	<sample filename="note-35.flac" midi_note="35" volume="0.000">
-		<clip start="73.923" end="2722.540" />
-		<loop type="ping-pong" start="1300.514" end="1799.731" />
-	</sample>
 	<sample filename="note-34.flac" midi_note="34" volume="0.000">
 		<clip start="31.247" end="2693.515" />
 		<loop type="ping-pong" start="830.584" end="1215.192" />
