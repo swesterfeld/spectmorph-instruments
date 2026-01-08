@@ -11,6 +11,10 @@ To build one single instrument, use the build script with the instrument name
 
     ./build.sh trumpet
 
+To build instruments in docker, edit git version in misc/make-dist-docker.sh and run:
+
+    misc/make-dist-docker.sh
+
 To edit a sample, create a zip file of the directory, for instance like this
 
     cd trumpet
